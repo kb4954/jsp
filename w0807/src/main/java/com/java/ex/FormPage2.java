@@ -9,31 +9,40 @@ import java.io.IOException;
 import java.io.PrintWriter;
 
 
-@WebServlet("/FormPage")
-public class FormPage extends HttpServlet {
+@WebServlet("/FormPage2")
+public class FormPage2 extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
 	protected void doAction(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		System.out.println("doAction 실행");
-		String id =  request.getParameter("id");
 		String name =  request.getParameter("name");
-		String pw =  request.getParameter("pw");
-		System.out.println("id :"+id);
-		System.out.println("name :"+name);
-		System.out.println("pw :"+pw);
+		String kor =  request.getParameter("kor");
+		String eng =  request.getParameter("eng");
+		String math =  request.getParameter("math");
+		int kor1 = Integer.parseInt(kor);
+		int eng1 = Integer.parseInt(eng);
+		int math1= Integer.parseInt(math);
+		int total = kor1+eng1+math1;
+		double avg = total/3.0;
+		
+		
+		
 		// 웹페이지 생성 가능
 		response.setContentType("text/html; charset=utf-8"); 
 		PrintWriter writer = response.getWriter();
 		
 		writer.println("<html>");
 		writer.println("<head>");
-		writer.println("<title>응답페이지</title>");
+		writer.println("<title>학생성적</title>");
 		writer.println("<head>");
 		writer.println("<body>");
 		writer.println("<h2>입력정보</h2>");
-		writer.println("<p>아이디 : "+id+"</p>");
 		writer.println("<p>이름 : "+name+"</p>");
-		writer.println("<p>패스워드 : "+pw+"</p>");
+		writer.println("<p>국어 : "+kor +"</p>");
+		writer.println("<p>영어 : "+eng +"</p>");
+		writer.println("<p>수학 : "+math +"</p>");
+		writer.println("<p>합계 : "+total +"</p>");
+		writer.println("<p>평균 : "+avg +"</p>");
 		writer.println("</body>");
 		writer.println("</html>");
 		
