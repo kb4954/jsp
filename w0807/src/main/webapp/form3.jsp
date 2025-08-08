@@ -4,7 +4,7 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>html->servlet</title>
+		<title>html->servlet</
 	</head>
 	<body>
 	<form action="/w0807/FormPage2" method="post">
@@ -16,9 +16,6 @@
 		<input type="text" name="eng"><br>
 		<label>수학</label>
 		<input type="text" name="math"><br>
-
-
-
 		<input type="submit" value="전송">
 	</form>
 </body>
