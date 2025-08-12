@@ -1,0 +1,808 @@
+<!DOCTYPE html>
+<html lang="ko" >
+<head>
+    <meta charset="utf-8" />
+    <meta name="format-detection" content="telephone=no" />
+            <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+    
+    <link rel="icon" type="icon/x-image" sizes="32x32 192x192" href="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/favicon-v2-192.png">
+    <link rel="apple-touch-icon" href="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/touch-icon-v2-180.jpg" />
+    <link rel="apple-touch-icon-precomposed" href="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/touch-icon-v2-180.jpg">
+	<link rel="preload" href="https://studio-jt.co.kr/wp-content/themes/studio_jt/fonts/NotoSansCJKkr-hinted/NotoSansCJKkr-Regular.woff" as="font" type="font/woff" crossorigin>
+	<link rel="preload" href="https://studio-jt.co.kr/wp-content/themes/studio_jt/fonts/NotoSansCJKkr-hinted/NotoSansCJKkr-DemiLight.woff" as="font" type="font/woff" crossorigin>
+	<link rel="preload" href="https://studio-jt.co.kr/wp-content/themes/studio_jt/fonts/NotoSansCJKkr-hinted/NotoSansCJKkr-Light.woff" as="font" type="font/woff" crossorigin>
+	<link rel="preload" href="https://studio-jt.co.kr/wp-content/themes/studio_jt/fonts/NotoSansCJKkr-hinted/NotoSansCJKkr-Medium.woff" as="font" type="font/woff" crossorigin>
+	<link rel="preload" href="https://studio-jt.co.kr/wp-content/themes/studio_jt/fonts/NotoSansCJKkr-hinted/NotoSansCJKkr-Bold.woff" as="font" type="font/woff" crossorigin>
+
+    <meta name="msapplication-TileImage" content="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/favicon-v2-270.png" />
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-52PDPHM');</script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Facebook Pixel Code -->
+    <script>
+	setTimeout(function(){
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window,document,'script', 'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '144147769537342');
+        fbq('track', 'PageView');
+        fbq('track', 'ViewContent');
+	},3000);
+    </script>
+    <!-- End Facebook Pixel Code -->
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-102TY8CENV"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-102TY8CENV');
+    </script>
+
+    <!-- Naver Analytics -->
+    <script type="text/javascript" src="//wcs.naver.net/wcslog.js"></script>
+    <script type="text/javascript">
+    if(!wcs_add) var wcs_add = {};
+    wcs_add["wa"] = "10f72021fd57310";
+    if(window.wcs) {
+      wcs_do();
+    }
+    </script>
+
+    <script>function fvmuag(){if(navigator.userAgent.match(/x11.*fox\/54|oid\s4.*xus.*ome\/62|oobot|ighth|tmetr|eadles|ingdo/i))return!1;if(navigator.userAgent.match(/x11.*ome\/75\.0\.3770\.100/i)){var e=screen.width,t=screen.height;if("number"==typeof e&&"number"==typeof t&&862==t&&1367==e)return!1}return!0}</script>    <title>스튜디오 제이티 404 error페이지 디자인 모음 | 스튜디오 제이티</title>
+    <meta name="description" content="워드프레스로 개편시 바뀐 주소체계로 인해 404페이지로 넘어가는 경우가 많습니다. 그에 대비해 스튜디오 제이티는 404페이지도 정성껏 디자인 해오고 있습니다." />
+    <meta name="keywords" content="404error design" />
+                <meta property="og:locale" content="ko_KR" />
+            <meta property="og:site_name" content="스튜디오 제이티" />
+            <meta property="og:url" content="https://studio-jt.co.kr/%ec%8a%a4%ed%8a%9c%eb%94%94%ec%98%a4-%ec%a0%9c%ec%9d%b4%ed%8b%b0-404-%ec%97%90%eb%9f%ac-%ed%8e%98%ec%9d%b4%ec%a7%80-%eb%aa%a8%ec%9d%8c/"/>
+            <meta property="og:type" content="website" />
+            <meta property="og:title" content="스튜디오 제이티 404 error페이지 디자인 모음 | 스튜디오 제이티" />
+            <meta property="og:description" content="워드프레스로 개편시 바뀐 주소체계로 인해 404페이지로 넘어가는 경우가 많습니다. 그에 대비해 스튜디오 제이티는 404페이지도 정성껏 디자인 해오고 있습니다." />
+            <meta property="og:image" content="https://studio-jt.co.kr/wp-content/uploads/2017/03/404.jpg" />
+
+            
+                        <meta name="twitter:title" content="스튜디오 제이티 404 error페이지 디자인 모음 | 스튜디오 제이티" />
+            <meta name="twitter:description" content="워드프레스로 개편시 바뀐 주소체계로 인해 404페이지로 넘어가는 경우가 많습니다. 그에 대비해 스튜디오 제이티는 404페이지도 정성껏 디자인 해오고 있습니다." />
+            <meta name="twitter:image" content="https://studio-jt.co.kr/wp-content/uploads/2017/03/404.jpg" />
+
+            <link rel='stylesheet' id='fvm-header-0-css'  href='https://studio-jt.co.kr/wp-content/uploads/cache/fvm/1752538791/out/header-e05643e685b53112cc001cf9e24319102f188300.min.css' type='text/css' media='all' />
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='ie8-css'  href='https://studio-jt.co.kr/wp-content/themes/studio_jt/css/ie8.css' type='text/css' media='all' />
+<![endif]-->
+<!--[if lte IE 9]>
+<link rel='stylesheet' id='ie9-css'  href='https://studio-jt.co.kr/wp-content/themes/studio_jt/css/ie9.css' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://studio-jt.co.kr/wp-content/themes/studio_jt/js/vendors/respond.min.js' id='respond-js'></script>
+<![endif]--><script type='text/javascript' id='fvm-header-0-js-extra'>
+/* <![CDATA[ */
+var JT_Ajax_Loadmore = {"ajaxurl":"https:\/\/studio-jt.co.kr\/wp-admin\/admin-ajax.php","loadmoreNonce":"813ca421a3"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://studio-jt.co.kr/wp-content/uploads/cache/fvm/1752538791/out/header-ce5a9ddc5e7329d1b4c542bf0ec589101a62c7e6.min.js' id='fvm-header-0-js'></script><!--[if lt IE 9]>
+<script type='text/javascript' src='https://studio-jt.co.kr/wp-content/themes/studio_jt/js/vendors/html5shiv.min.js' id='html5shiv-js'></script>
+<![endif]--><!--[if lt IE 9]>
+<script type='text/javascript' src='https://studio-jt.co.kr/wp-content/themes/studio_jt/js/vendors/selectivizr-min.js' id='selectivizr-js'></script>
+<![endif]--><link rel="canonical" href="https://studio-jt.co.kr/%ec%8a%a4%ed%8a%9c%eb%94%94%ec%98%a4-%ec%a0%9c%ec%9d%b4%ed%8b%b0-404-%ec%97%90%eb%9f%ac-%ed%8e%98%ec%9d%b4%ec%a7%80-%eb%aa%a8%ec%9d%8c/" />
+<link rel="alternate" type="application/json+oembed" href="https://studio-jt.co.kr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstudio-jt.co.kr%2F%25ec%258a%25a4%25ed%258a%259c%25eb%2594%2594%25ec%2598%25a4-%25ec%25a0%259c%25ec%259d%25b4%25ed%258b%25b0-404-%25ec%2597%2590%25eb%259f%25ac-%25ed%258e%2598%25ec%259d%25b4%25ec%25a7%2580-%25eb%25aa%25a8%25ec%259d%258c%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://studio-jt.co.kr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstudio-jt.co.kr%2F%25ec%258a%25a4%25ed%258a%259c%25eb%2594%2594%25ec%2598%25a4-%25ec%25a0%259c%25ec%259d%25b4%25ed%258b%25b0-404-%25ec%2597%2590%25eb%259f%25ac-%25ed%258e%2598%25ec%259d%25b4%25ec%25a7%2580-%25eb%25aa%25a8%25ec%259d%258c%2F&#038;format=xml" />
+<style>#menu-item-687056 .menu-item-text i:after {content: "91";} #menu-item-687042 .menu-item-text i:after {content: "883";} #menu-item-694823 .menu-item-text i:after {content: "83";}</style>
+<!-- Schema & Structured Data For WP v1.9.60 - -->
+<script type="application/ld+json" class="saswp-schema-markup-output">
+[{"@context":"https:\/\/schema.org","@graph":[{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/studio-jt.co.kr\/#\uba54\uc778 \uba54\ub274","name":"\ud504\ub85c\uc81d\ud2b8","url":"https:\/\/studio-jt.co.kr\/projects\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/studio-jt.co.kr\/#\uba54\uc778 \uba54\ub274","name":"\uc81c\uc774\ud2f0 \uc774\uc57c\uae30","url":"https:\/\/studio-jt.co.kr\/category\/blog\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/studio-jt.co.kr\/#\uba54\uc778 \uba54\ub274","name":"\uc218\uc0c1\ub0b4\uc5ed","url":"https:\/\/studio-jt.co.kr\/%ec%88%98%ec%83%81%eb%82%b4%ec%97%ad\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/studio-jt.co.kr\/#\uba54\uc778 \uba54\ub274","name":"\uc5f0\ub77d\ucc98 \ubc0f \uc624\uc2dc\ub294 \uae38","url":"https:\/\/studio-jt.co.kr\/%ec%97%b0%eb%9d%bd%ec%b2%98-%eb%b0%8f-%ec%98%a4%ec%8b%9c%eb%8a%94-%ea%b8%b8\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/studio-jt.co.kr\/#\uba54\uc778 \uba54\ub274","name":"\ud504\ub85c\uc81d\ud2b8 \uc758\ub8b0\ud558\uae30","url":"https:\/\/studio-jt.co.kr\/%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-%ec%9d%98%eb%a2%b0%ed%95%98%ea%b8%b0\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/studio-jt.co.kr\/#\uba54\uc778 \uba54\ub274","name":"\uc785\uc0ac\uc9c0\uc6d0","url":"https:\/\/studio-jt.co.kr\/%ec%9e%85%ec%82%ac%ec%a7%80%ec%9b%90\/"}]},
+
+{"@context":"https:\/\/schema.org","@type":"BreadcrumbList","@id":"https:\/\/studio-jt.co.kr\/%ec%8a%a4%ed%8a%9c%eb%94%94%ec%98%a4-%ec%a0%9c%ec%9d%b4%ed%8b%b0-404-%ec%97%90%eb%9f%ac-%ed%8e%98%ec%9d%b4%ec%a7%80-%eb%aa%a8%ec%9d%8c\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/studio-jt.co.kr","name":"\uc2a4\ud29c\ub514\uc624 \uc81c\uc774\ud2f0"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/studio-jt.co.kr\/category\/blog\/story\/","name":"\uc81c\uc774\ud2f0 \uc18c\uc2dd"}},{"@type":"ListItem","position":3,"item":{"@id":"https:\/\/studio-jt.co.kr\/%ec%8a%a4%ed%8a%9c%eb%94%94%ec%98%a4-%ec%a0%9c%ec%9d%b4%ed%8b%b0-404-%ec%97%90%eb%9f%ac-%ed%8e%98%ec%9d%b4%ec%a7%80-%eb%aa%a8%ec%9d%8c\/","name":"\uc2a4\ud29c\ub514\uc624 \uc81c\uc774\ud2f0 404 \uc5d0\ub7ec \ud398\uc774\uc9c0 \ubaa8\uc74c"}}]},
+
+{"@context":"https:\/\/schema.org","@type":"BlogPosting","@id":"https:\/\/studio-jt.co.kr\/%ec%8a%a4%ed%8a%9c%eb%94%94%ec%98%a4-%ec%a0%9c%ec%9d%b4%ed%8b%b0-404-%ec%97%90%eb%9f%ac-%ed%8e%98%ec%9d%b4%ec%a7%80-%eb%aa%a8%ec%9d%8c\/#BlogPosting","url":"https:\/\/studio-jt.co.kr\/%ec%8a%a4%ed%8a%9c%eb%94%94%ec%98%a4-%ec%a0%9c%ec%9d%b4%ed%8b%b0-404-%ec%97%90%eb%9f%ac-%ed%8e%98%ec%9d%b4%ec%a7%80-%eb%aa%a8%ec%9d%8c\/","inLanguage":"ko-KR","mainEntityOfPage":"https:\/\/studio-jt.co.kr\/%ec%8a%a4%ed%8a%9c%eb%94%94%ec%98%a4-%ec%a0%9c%ec%9d%b4%ed%8b%b0-404-%ec%97%90%eb%9f%ac-%ed%8e%98%ec%9d%b4%ec%a7%80-%eb%aa%a8%ec%9d%8c\/","headline":"\uc2a4\ud29c\ub514\uc624 \uc81c\uc774\ud2f0 404 \uc5d0\ub7ec \ud398\uc774\uc9c0 \ubaa8\uc74c","description":"404\ud398\uc774\uc9c0\ub780 \uc0ac\uc774\ud2b8\uc758 \uc8fc\uc18c\ub97c \uc798\ubabb \uc785\ub825\ud558\uc600\uc744\uc2dc \uc544\ub2c8\uba74 \ud574\ub2f9 \ud3ec\uc2a4\ud305\uc774 \uc0ad\uc81c\ub418\uc5b4\n\uc788\uc744\ub54c\uc5d0 \ub098\uc624\ub294 \uc5d0\ub7ec \ud398\uc774\uc9c0\uc785\ub2c8\ub2e4.","articleBody":"\ud83d\udc81\u200d\u2640\ufe0f\uc548\ub155\ud558\uc138\uc694! \uc2a4\ud29c\ub514\uc624\uc81c\uc774\ud2f0 \uc785\ub2c8\ub2e4 \ud639\uc2dc 404 \uc5d0\ub7ec \ud398\uc774\uc9c0\ub97c \uc544\uc2dc\ub098\uc694??\ud83d\udc81\u200d\u2642\ufe0f    \uc0ac\uc774\ud2b8\uc758 \uc8fc\uc18c\ub97c \uc798\ubabb \uc785\ub825 \ud558\uac70\ub098 \ud3ec\uc2a4\ud305\uc774 \uc0ad\uc81c\ub410\uc744 \ub54c \ubc18\uac11\uac8c \ud83d\ude44 \ub9de\uc774\ud574\uc8fc\ub294 \u26d4\uc5d0\ub7ec \ud398\uc774\uc9c0\ud83d\udeab\uc785\ub2c8\ub2e4. \uc6cc\ub4dc\ud504\ub808\uc2a4\ub85c \uc0ac\uc774\ud2b8 \uac1c\ud3b8 \uc2dc \ubc14\ub010 URL\uccb4\uacc4\ub85c \uc778\ud574 \uc0ac\uc6a9\uc790 \uc785\uc7a5\uc5d0\uc11c \uac04\ud639 \uc790\uc8fc \ubcf4\uac8c \ub418\ub294 \uce5c\uad6c\uc778\ub370\uc694. (\ud83d\ude4b\u200d\u2642\ufe0f: \uac11\uc791\uc2a4\ub7fd\uac8c \ub728\ub294 \uc5d0\ub7ec \ud398\uc774\uc9c0\ub85c \ub2f9\ud669\uc2a4\ub7ec\uc6b4 \uacbd\ud5d8! \uacaa\uc5b4\ubcf4\uc2e0 \uc801 \uc788\uc73c\uc2e0\uac00\uc694??)    \uc2a4\ud29c\ub514\uc624\uc81c\uc774\ud2f0\uc5d0\uc11c \uc791\uc5c5\ub418\ub294 \ubaa8\ub4e0 \uc0ac\uc774\ud2b8\ub4e4\uc740 \ud398\uc774\uc9c0\uc5d0 \uc798\ubabb \ub4e4\uc5b4\uac14\uc744 \ub54c\uc5d0\ub3c4 \ub2f9\ud669\ud558\uc9c0 \uc54a\uac8c \uc81c\uc774\ud2f0\ub9cc\uc758 \uac10\uc131\uc73c\ub85c \uba54\uc778 \ud398\uc774\uc9c0\ub85c \ub2e4\uc2dc \uc62c \uc218 \uc788\ub3c4\ub85d \uc0ac\uc6a9\uc790\ub97c \ubc30\ub824\ud558\uace0 \uac1c\uc131 \ub118\uce58\uac8c \ub514\uc790\uc778\ud558\uc5ec \uaf3c\uaf3c\ud558\uac8c \uc81c\uc791\ud55c\ub2e4\ub294 \uc0ac\uc2e4!\ud83e\udd18    \uadf8\ub7fc \uc2a4\ud29c\ub514\uc624\uc81c\uc774\ud2f0\uc5d0\uc11c \uadf8\ub3d9\uc548 \uc990\uac81\uac8c \uc791\uc5c5\ud588\ub358 404 \uc5d0\ub7ec \ud398\uc774\uc9c0\ub97c \ub9cc\ub098\ub7ec \uac00\ubcfc\uae4c\uc694??\ud83c\udfc3\u200d\u2640\ufe0f\ud83d\udeb6\u200d\u2642\ufe0f\ud83d\udeb4\u200d\u2642\ufe0f\ud83c\udfc3\u200d\u2642\ufe0f\ud83d\udeb6\u200d\u2642\ufe0f\ud83c\udfca\u200d\u2640\ufe0f(\ub514\uc790\uc774\ub108 \ubd84\ub4e4\uc758 \ub3cb\ubcf4\uc774\ub294 \uc13c\uc2a4\ub4e4\uc744 \uc774\ubbf8\uc9c0\ub97c \ud074\ub9ad\ud83d\udc48\ud574 \ud655\uc778 \ud574\ubcf4\uc138\uc694!)    \uaf2c\ub760\uc0f5        \ud83d\udc36\uaf2c\ub760\uc0f5\uc740 \ubc18\ub824\ub3d9\ubb3c\uc744 \uc704\ud55c \ud504\ub9ac\ubbf8\uc5c4 \uc560\uc644\uc6a9\ud488 \ube0c\ub79c\ub4dc \uc0ac\uc774\ud2b8\uc785\ub2c8\ub2e4.\uaf2c\ub760\uc0f5\uc758 404\ud398\uc774\uc9c0\ub294 \ub2e8\uc21c\ud55c \uc5d0\ub7ec \ud398\uc774\uc9c0\uac00 \uc544\ub2d9\ub2c8\ub2e4!\uc783\uc5b4\ubc84\ub9b0 \ubc18\ub824\uacac\uacfc \uc720\uae30\uacac\ub4e4\uc774 \ud558\ub8e8\ube68\ub9ac \uadf8\ub9ac\uc6b4 \uc8fc\uc778 \uacc1\uc73c\ub85c \ub3cc\uc544\uac08 \uc218 \uc788\ub3c4\ub85d \uc870\uae08\uc758 \ub3c4\uc6c0\uc774 \ub418\uae30 \uc704\ud574 \ub3d9\ubb3c\ubcf4\ud638 \uad00\ub9ac \uc2dc\uc2a4\ud15c api\ub97c \uc5f0\ub3d9\ud558\uc5ec \uc758\ubbf8 \uc788\ub294 404 \ud398\uc774\uc9c0\ub97c \ub9cc\ub4e4\uc5c8\uc2b5\ub2c8\ub2e4!\ud83d\ude25(\ud83d\ude4b\u200d\u2642\ufe0f : \uc598\ub4e4\uc544.. \ud589\ubcf5\ud574\uc57c \ud55c\ub2e4!)    \uce74\uce74\uc624\uc5d4\ud130\ud504\ub77c\uc774\uc988        \ub2e4\uc74c \uc18c\uac1c\ub4dc\ub9b4 \ud398\uc774\uc9c0\ub294 \uc624\ub79c \uc2dc\uac04 \ub3d9\uc548 \ucd95\uc801\ub41c AI \uae30\uc220\ub825\uacfc \uc11c\ube44\uc2a4 \uacbd\ud5d8\uc744 \uc81c\uacf5\ud558\uace0,  \uc2a4\ub9c8\ud2b8\ud55c \uc77c\uc0c1\uc744 \ub9cc\ub4dc\ub294 \uad6d\ub0b4 \ub300\ud45c IT \ud50c\ub7ab\ud3fc \uae30\uc5c5 \uce74\uce74\uc624 \uc5d4\ud130\ud504\ub77c\uc774\uc988 \uc785\ub2c8\ub2e4!\uce74\uce74\uc624\uc758 \uc2dc\uadf8\ub2c8\ucc98 \uc0c9\uc0c1\uc744 \uc774\uc6a9\ud55c 3d \uc774\ubbf8\uc9c0\ub97c \ud65c\uc6a9\ud558\uc5ec \uace0\uae09\uc2a4\ub7fd\uace0 \uba85\ud655\ud55c \uc815\ubcf4 \uc804\ub2ec\ub85c \uc774\ub8e8\uc5b4\uc9c4 404\ud398\uc774\uc9c0\ub124\uc694!    DSRV        '\uc0c8\ub85c\uc6b4 D, \uc0c8\ub85c\uc6b4 \uace0\uac1d\uacbd\ud5d8.' \uc138 \ubc88\uc9f8\ub294 \ube14\ub85d\uccb4\uc778 \uc5c5\uacc4\uc5d0\uc11c \ub3c5\ubcf4\uc801\uc778 \uae30\uc220\ub825\uacfc \uc120\ub3c4\uc801\uc778 \ud37c\ud3ec\uba3c\uc2a4\ub97c \uac00\uc9c4 DSRV\uc758 404 \uc5d0\ub7ec \ud398\uc774\uc9c0 \uc785\ub2c8\ub2e4. \ud14d\uc2a4\ud2b8\uc758 \uac04\uacb0\ud568\uc5d0&nbsp; DSRV\uc758 \ud2b9\uc0c9\uc774 \ub098\ud0c0\ub098\ub294 \ud83c\udfa8\uc77c\ub7ec\uc2a4\ud2b8\ub97c \ud3ec\uc778\ud2b8\ub85c \uc774\uc6a9\ud558\uc5ec \ud45c\ud604\uc744 \ud558\uc600\uc2b5\ub2c8\ub2e4!     \ub9c8\uc774\ud06c\ub85c\ubc14\uc774\uc634\uc13c\ud130        \ub9c8\uc774\ud06c\ub85c\ubc14\uc774\uc634\uc13c\ud130\ub294 \ud64b\uce74\uc774\ub3c4\uc5d0 \uc704\uce58\ud558\uba70 LG\uc0dd\ud65c\uac74\uac15\uc758 \uae00\ub85c\ubc8c \uc790\uc5f0\ubc1c\ud6a8 \uc5f0\uad6c\uac00 \uc774\ub8e8\uc5b4\uc9c0\ub294 \uacf5\uac04\uc744 \uc628\ub77c\uc778\uc73c\ub85c \uad00\ub78c\ud560 \uc218 \uc788\ub294 \uc0ac\uc774\ud2b8\uc785\ub2c8\ub2e4!\uae38\uc744 \uc783\uc740  \ub2f9\uc2e0!\ud83e\udd18 404\ud398\uc774\uc9c0\uc5d0\uc11c\ub294 \ub9c8\uc774\ud06c\ub85c\ubc14\uc774\uc634 \uc13c\ud130 \uc548\uc758 \ubaa8\uc2b5\uc774 \uc798 \ubcf4\uc774\uc9c0 \uc54a\ub124\uc694!\ud83e\udd7a \ub2e4\uc2dc \uba54\uc778\uc73c\ub85c \ub3cc\uc544\uac00 \ub9c8\uc774\ud06c\ub85c\ubc14\uc774\uc634\uc13c\ud130\uc758 \uc6c5\uc7a5\ud55c \ub0b4\ubd80\ub97c \uad00\ub78c\ud574 \ubcf4\uc138\uc694!\ud83e\uddcf\u200d\u2642\ufe0f\ud83e\uddcf\u200d\u2640\ufe0f    \uacf5\uac04\uae30\ub85d        \uac1c\uc778 \ud83c\udfe0\uc8fc\uac70\uacf5\uac04\uc744 \uc804\ubb38\uc73c\ub85c \uac74\ucd95\ud558\ub294 \ud68c\uc0ac\ud83c\udfe1 \uacf5\uac04\uae30\ub85d \uc5d0\uc11c\ub294 \uc5b4\ub5a4 404 \ud398\uc774\uc9c0\uc77c\uae4c\uc694?\uacf5\uac04\uae30\ub85d\uc758 \uc0ac\uc774\ud2b8\ub294 \ub85c\uace0\uc5d0 \ub9de\ucdb0 \ub77c\uc778\uacfc \uc5ec\ubc31\uc744 \ud65c\uc6a9\ud558\uc5ec \ub514\uc790\uc778\uc774 \ub418\uc5c8\ub294\ub370\uc694. 404 \uc5d0\ub7ec \ud398\uc774\uc9c0\ub3c4 \uc544\uc774\ub374\ud2f0\ud2f0\uc5d0 \ub9de\uac8c \ub77c\uc778\uc73c\ub85c \ub41c \uc77c\ub7ec\uc2a4\ud2b8\ub97c \uc774\uc6a9\ud558\uc5ec \uc808\uc81c\ub418\uace0 \uc5ec\uc720\ub85c\uc6b4 \ub514\uc790\uc778\ub418\uc5c8\ub124\uc694!(\u270c\uac00\uc7a5 \uc5b4\ub824\uc6b4 \uc808\uc81c..\u270c)    \ub098\uc2a4\ubbf8\ub514\uc5b4        \uc0c8\ub86d\uac8c \ub9ac\ub274\uc5bc \ub418\uc5c8\ub358 \uad6d\ub0b4 \ucd5c\ub300 \ubbf8\ub514\uc5b4 \ub7a9 \ud68c\uc0ac \ub098\uc2a4\ubbf8\ub514\uc5b4 \uc0ac\uc774\ud2b8\uc5d0\uc11c\ub294 \uc544\uc774\ub374\ud2f0\ud2f0 \uac15\ud654\ub97c \uc704\ud55c \ube0c\ub79c\ub4dc \uceec\ub7ec\ub97c \ud65c\uc6a9\ud558\uc5ec \uc81c\uc791\ud558\uc600\ub2e4\uace0 \ud569\ub2c8\ub2e4! 404 \ud398\uc774\uc9c0\uc5d0\uc11c\ub3c4 \ube0c\ub79c\ub4dc \uc544\uc774\ub374\ud2f0\ud2f0 \uceec\ub7ec\ub97c \uc0ac\uc6a9\ud55c \uc790\uc5f0\uc2a4\ub7ec\uc6b4 \ubaa8\uc158 \uc2a4\ud06c\ub9bd\ud2b8\ub97c \ud65c\uc6a9\ud558\uc5ec \uc9c0\ub8e8\ud558\uc9c0 \uc54a\uc740 \ud398\uc774\uc9c0\uac00 \ub514\uc790\uc778\ub418\uc5c8\ub124\uc694!(\ud83d\ude4b\u200d\u2642\ufe0f: \uacf5\ud83d\udd34 \uad74\ub7ec\uac00\uc720~)    \ub3d9\uc77c\uac74\ucd95        \ub2e4\uc74c\uc740 \uc0ac\ub78c\uacfc, \uacf5\uac04\uc744 \uc5f0\uacc4\ud558\ub294 \uc124\uacc4, \ud601\uc2e0\uc801\uc778 \ub514\uc790\uc778\uacfc \ucd95\uc801\ub41c \uae30\uc220\uc744 \ubc14\ud0d5\uc73c\ub85c \uac74\ucd95\uacfc \uadf8 \uc774\uc0c1\uc758 \uac00\uce58\ub97c \ub9cc\ub4e4\uc5b4\ub0b4\ub294 \ub3d9\uc77c\uac74\ucd95\uc785\ub2c8\ub2e4!\ud83c\udfe6 \uac74\ucd95\ud68c\uc0ac\uc758 \uc804\ubb38\uc131\uacfc \ud06c\ub808\uc774\ud2f0\ube0c\ud55c \uc544\uc774\ub374\ud2f0\ud2f0\uac00 \ubcf4\uc774\ub3c4\ub85d \ub514\uc790\uc778\ub41c \uc0ac\uc774\ud2b8\uc778\ub370\uc694. \uc804\ubb38\uc801\uc774\uace0 \uc2e0\ub8b0\ub3c4\ub97c \ub098\ud0c0\ub0b4\uae30 \uc704\ud574 \uba4b\ub4e4\uc5b4\uc9c4 \uac74\ucd95 \uc774\ubbf8\uc9c0 \ubc14\ud0d5\uc5d0 \ud14d\uc2a4\ud2b8\ub85c \uac00\ub3c5\uc131 \ub192\uc740 \ud398\uc774\uc9c0\uc785\ub2c8\ub2e4!\u2728    \uc544\ubaa8\ub808\ud37c\uc2dc\ud53d \ube44\ub808\ub514        \uc544\ubaa8\ub808\ud37c\uc2dc\ud53d\uc758 \ucd5c\ucd08 \ub0a8\uc131 \uba54\uc774\ud06c\uc5c5 \ube0c\ub79c\ub4dc \ube44\ub808\ub514 \uc6f9\uc0ac\uc774\ud2b8\uc785\ub2c8\ub2e4!!\ube0c\ub79c\ub4dc \uc544\uc774\ub374\ud2f0\ud2f0\uac00 \ubb3b\uc5b4\ub098\uc788\ub294 \uc2ec\ubc8c\uc744 \ud65c\uc6a9\ud558\uc5ec \ud1b5\ud1b5 \ud280\ub294 \uc7ac\ubbf8\uc694\uc18c\uc640 \ub354\ubd88\uc5b4 \ud14d\uc2a4\ud2b8 \ubaa8\uc158\uc744 \uc8fc\uc5c8\ub124\uc694. \ub9c8\uc6b0\uc2a4\ub85c \ud654\uba74\uc744 \ud074\ub9ad\ud558\uba74 \uc2ec\ubc8c\uc774 \ud1b5\ud1b5 \ud280\uba70 \ub098\uc628\ub2f5\ub2c8\ub2e4!!\ud83d\ude2e(\ud83d\ude4b\u200d\u2642\ufe0f: \ud1b5\ud1b5 \ud280\ub294 \uc2ec\ubcfc \ubcf4\uba74 \uc2dc\uac04\uac00\ub294 \uc904 \ubab0\ub77c\uc694 '\uc0ac\uba4d'  404 \uba4d \ub54c\ub9ac\uae30\uc5d0 \uc88b\uc2b5\ub2c8\ub2e4\u23f2)    FBI WARNING \uac19\uc740 \ub290\ub08c\uc744 \ub123\uc5b4 \ubcf8 Bro&amp;Tips        \ud83d\udc81\u200d\u2642\ufe0f\uc544\ubaa8\ub808\ud37c\uc2dc\ud53d\uc758 20\ub144 \ub9cc\uc5d0 \uc120\ubcf4\uc778 \ub0a8\uc131 \ud654\uc7a5\ud488 \ube0c\ub79c\ub4dc \uc0ac\uc774\ud2b8 \ube0c\ub85c\uc564\ud301\uc2a4 \uc785\ub2c8\ub2e4!    \ub0a8\uc131\ub4e4\uc744 \ub300\uc0c1\uc73c\ub85c \ub9cc\ub4e0 \uc0ac\uc774\ud2b8\uc774\ub2e4 \ubcf4\ub2c8 \ub3c5\ud2b9\ud558\uace0 \uac1c\uc131 \ub118\uce58\ub294 \ubb38\uad6c\ub4e4\uc774 \ub208\uc5d0 \ub744\ub294\ub370\uc694. 404 \ud398\uc774\uc9c0\uc5d0\ub3c4 \uac1c\uc131 \ub118\uce58\ub294 \ubb38\uad6c\uc640 \uc5b4\ub514\uc5d0\uc11c \ub9ce\uc774 \ubd24\uc744\ubc95\ud55c? FBI WARNING \ud328\ub7ec\ub514 \ud654\uba74\uc73c\ub85c \uc9c0\ub8e8\ud558\uc9c0 \uc54a\uace0 \uc7ac\ubbf8\uc788\uac8c \ud45c\ud604\ub418\uc5c8\uc2b5\ub2c8\ub2e4! (\ud615..)\ud83e\udd23    \ucc9c\ubd80\uad50        \uc804\uccb4\uc801\uc73c\ub85c \ubb34\ucc44\uc0c9\uacfc \ube0c\ub77c\uc6b4 \uceec\ub7ec\ub85c \uace0\uae09\uc2a4\ub7fd\uace0 \ub530\ub73b\ud55c \ub290\ub08c\uc744 \uc8fc\uc5b4 \ucc9c\ubd80\uad50\uc758 \uad50\ub9ac\ub97c \uc798 \ud45c\ud604 \ub418\uc5b4\uc9c4 \uc0ac\uc774\ud2b8 \uc785\ub2c8\ub2e4. 404\ud398\uc774\uc9c0\uc5d0\uc11c\ub3c4 \ucc9c\ubd80\uad50\ub97c \uc0c1\uc9d5\ud558\ub294 \ub2e4\uc591\ud55c \uc694\uc18c\ub97c \ud83c\udfa8\ud55c\ub540\ud55c\ub540 \uc77c\ub7ec\uc2a4\ud2b8\ub85c \ud45c\ud604\ud558\uc5ec \ub0af\uc120 404 \uacf5\uac04\uc5d0\uc11c\ub3c4 \uce5c\uadfc\ud558\uace0 \ub530\ub73b\ud55c \uac10\uc131\uc774 \ub290\uaef4\uc9c0\ub124\uc694!(\ud83d\ude4b\u200d\u2642\ufe0f: \ucc9c\ubd80\uad50 404\uc5d0 \ube60\uc9c0\uba74 \uac10\uc131\uacfc \uac10\uc0c1\uc5d0 \uc816\uc5b4 \uc27d\uac8c \ubabb \ube60\uc838 \ub098\uc62c\uac70 \uac19\ub124\uc694 \uc798 \ub9cc\ub4e0 404\uac00 \uc774\ub807\uac8c \uc704\ud5d8\ud569\ub2c8\ub2e4. \ud83e\udd7a)    \uc720\uc564\uadf8\ub9b0\uc5ec\uc131\ud55c\uc758\uc6d0        \ud83d\udc81\u200d\u2640\ufe0f\ub2e4\uc74c\uc740 \uc5ec\uc131\ud2b9\ud654 \ud55c\uc758 \ud074\ub9ac\ub2c9\uc778 \uc720\uc564\uadf8\ub9b0\uc5ec\uc131\ud55c\uc758\uc6d0 \uc785\ub2c8\ub2e4!\uc9c4\ub8cc\uc5d0 \ub300\ud574 \uc870\uae08 \ub354 \uc27d\uac8c \uc774\ud574\ud560 \uc218 \uc788\ub3c4\ub85d \ub9de\ucda4\ud615 \uc77c\ub7ec\uc2a4\ud2b8\ub97c \ud65c\uc6a9\ud558\uc5ec \ub514\uc790\uc778 \ub418\uc5c8\ub2e4\uace0 \ud569\ub2c8\ub2e4. \uc804\uccb4\uc801\uc73c\ub85c \ud3b8\uc548\ud558\uace0 \ubc1d\uc740 \ub290\ub08c\uc774 \ub4dc\ub294\ub370 404\ud398\uc774\uc9c0\uc5d0\uc11c\ub3c4 \uadc0\uc5ec\uc6b4 \uc77c\ub7ec\uc2a4\ud2b8\ub85c \uc2a4\ud2b8\ub808\uc2a4\uac00 \uc544\ub2cc \uc6c3\uc74c\uacfc \ud589\ubcf5\ud568\uc744 \uc8fc\ub124\uc694!\ud83d\ude01    \uc6cc\uc2dc\uc5d4\uc870\uc774        \ud83e\uddfa\uc0c8\ub86d\uac8c \ub9ac\ub274\uc5bc\ub418\uc5c8\ub358 \uc140\ud504 \ube68\ub798\ubc29 \uc6cc\uc2dc\uc5d4\uc870\uc774 \uc6f9\uc0ac\uc774\ud2b8 \uc785\ub2c8\ub2e4!404 \ud0c0\uc774\ud3ec\uac00 \ubb3c\uc5d0 \uc7a0\uae34 \ubaa8\uc158\uc73c\ub85c \uc6cc\uc2dc\uc5d4\uc870\uc774\uc758 \ube0c\ub79c\ub4dc \uc774\ubbf8\uc9c0\uc5d0 \uc798\ub9de\uace0 \uc7ac\uce58\uc788 \uac8c \ud45c\ud604\ub41c\uac70 \uac19\ub124\uc694! (\ud83d\ude4b\u200d\u2642\ufe0f: 404 \ud83c\udfca\u200d\u2642\ufe0f\u2b55)    \ud55c\uad6d\uc54c\ucf5c\uc0b0\uc5c5 KAI \/ KC&amp;A \/ ENF                \uad6d\ub0b4 \ud654\ud559 \uc0b0\uc5c5\uc744 \ub300\ud45c\ud558\ub294 \ud55c\uad6d\uc54c\ucf5c\uc0b0\uc5c5\uacfc \uad00\uacc4\uc0ac(KC&amp;A, ENF)\uc758 \ub9ac\ub274\uc5bc \uc0ac\uc774\ud2b8 \uc785\ub2c8\ub2e4! \uae30\uc5c5\uc774\ubbf8\uc9c0\uc640 \uc0c8\ub85c\uc6b4 \ubbf8\uc158 \ubc0f \ube44\uc804\uc774 \ubc1c \ubc18\uc601\ub418\uace0 UI\uac1c\uc120 \ubc0f \ub514\uc790\uc778\uc744 \uac15\ud654\ud558\ub294\ub370 \ubaa9\uc801\uc744 \ub454 \ud504\ub85c\uc81d\ud2b8 \uc600\uc2b5\ub2c8\ub2e4.404 \ud398\uc774\uc9c0 \ub610\ud55c \uae30\uc5c5\uc774\ubbf8\uc9c0\uc640 \ub9de\uac8c \uc88b\uc740 \uc774\ubbf8\uc9c0\ub97c \ub2e4\uc591\ud55c \ud6a8\uacfc\ub97c \uc8fc\uc5b4\uc11c \ub514\uc790\uc778 \ub418\uc5c8\uc2b5\ub2c8\ub2e4! \u2728- Kai\ub294 \ub9c8\uc774\ud06c\ub85c \uc778\ud130\ub799\uc158 \ud65c\uc6a9 (\uc0ac\uc6a9\uc790\ub97c \uc990\uac81\uac8c \ud558\uae30 \uc704\ud55c \uc791\uc740 \uc6c0\uc9c1\uc784)- KC&amp;A\ub294 \uc2dc\ub124\ub9c8\uadf8\ub798\ud504 \ud65c\uc6a9 (\ubaa8\uc158\uacfc \uc2a4\ud2f8 \uc0ac\uc9c4\uc758 \ud63c\ud569)- ENF\ub294 fake3d (\uc774\ubbf8\uc9c0\ub97c \ud65c\uc6a9\ud55c 3d \ud6a8\uacfc)\uac01\uac01\uc758 \ub2e4\uc591\ud55c \ud6a8\uacfc\ub4e4\uc774 \uc0ac\uc6a9 \ub418\uc5b4\uc84c\ub294\ub370\uc694. \uc2e4\uc81c\ub85c \ud398\uc774\uc9c0\uc5d0\uc11c \ubcf4\uba74 \uc791\uc740 \ud6a8\uacfc\ub4e4\uc774 \uc9c0\ub8e8\ud568\uc744 \uc904\uc5ec\uc8fc\uace0 \uac10\uc0c1\uc744 \ud558\uac8c \ub418\ub294\uac70 \uac19\uc2b5\ub2c8\ub2e4!\ud83d\ude0e    \uce74\ud398 \ubc14\ub77c\ubcf4\ub2e4        \u2615\uce74\ud398 \ubc14\ub77c\ubcf4\ub2e4\ub97c \uc9c1\uc811 \ubc29\ubb38\ud558\uc5ec \uc2e4\uc81c \uc544\uc774\ud15c\uacfc \uc8fc\ubcc0\ud658\uacbd\uc744 \uc77c\ub7ec\uc2a4\ud2b8\ub85c \ub2f4\uc544 \uc81c\uc791\ud558\uc5ec \uce74\ud398\ub85c\uc368 \ud2b9\uc720\uc758 \uac10\uc218\uc131\uc774 \ubb3b\uc5b4\ub098\uc624\ub294 \uc0ac\uc774\ud2b8 \uc785\ub2c8\ub2e4! 404\uc5d0\ub7ec \ud398\uc774\uc9c0\uc5d0\uc11c\ub3c4 \uc9c1\uc811 \uadf8\ub9b0 \uc190\uadf8\ub9bc\uc73c\ub85c \ubc14\ub77c\ubcf4\ub2e4 \uc0ac\uc774\ud2b8 \ub9cc\uc758 \uac10\uc131\uc774 \ubb3b\uc5b4\ub098\uc624\ub294 \ud398\uc774\uc9c0 \uc785\ub2c8\ub2e4. 404 \ud398\uc774\uc9c0 \ubcf4\uba74\uc11c \ucee4\ud53c\ud55c\uc794    \ub300\ud55c\ub3d9\ubc29         \ub2e4\uc74c \uc18c\uac1c\ub4dc\ub9b4 \ud398\uc774\uc9c0\ub294 \ud2b9\uc218\ubaa9\uc801\uc6a9 \uae30\uacc4 \uc81c\uc870\uc5c5\uccb4\uc778 \ub300\ud55c\ub3d9\ubc29 \uc8fc\uc2dd\ud68c\uc0ac\uc758 \ub9ac\ub274\uc5bc \ub418\uc5c8\ub358 \uc0ac\uc774\ud2b8 \uc785\ub2c8\ub2e4! \uae30\uc5c5\uc774\ubbf8\uc9c0\uc640 \uc0c8\ub85c\uc6b4 \ubbf8\uc158 \ubc0f \ube44\uc804\uc774 \uc798 \ubc18\uc601\ub418\uc5b4 \ub514\uc790\uc778 \ub418\uc5c8\ub294\ub370\uc694\ub300\ud55c\ub3d9\ubc29\uc744 \uc0c1\uc9d5\ud558\ub294 \uc77c\ub7ec\uc2a4\ud2b8\ub97c 404 ERROR\uc758 \uc720\uc0c1\uc131\uc744 \uc811\ubaa9\uc2dc\ud0a4\uace0 \ubaa8\uc158\uc744 \ud1b5\ud574 \ub514\uc790\uc778 \ub418\uc5b4\uc84c\uc2b5\ub2c8\ub2e4! \uc9c0\ub8e8\ud558\uace0 \ub3c4\uc6c0\uc774 \ub418\uc9c0 \uc54a\ub294 \ud398\uc774\uc9c0\ub3c4  \uc791\uc740 \uc6c0\uc9c1\uc784\uc73c\ub85c \uc7ac\ubbf8\uc788\uace0 \uc758\ubbf8\uc788\ub294 \ud398\uc774\uc9c0\ub85c \ub9cc\ub4e4\uc5b4 \ubc84\ub9ac\ub294 STUDIO-JT!\ud83e\udd18\ud83d\udc4f    \ud1a0\ub9c8\ud1a0\uc548\uacbd \uae00\ub85c\ubc8c \uc1fc\ud551\ubab0        \ud83c\udf45\uc5b4\ub9b0\uc774\ub4e4\uc774 \uc0ac\uc6a9\ud558\uae30 \ud3b8\ud55c \ud1a0\ub9c8\ud1a0\uc548\uacbd\uc758 \uc601\ubb38\uc73c\ub85c \uc81c\uc791\ub418\uc5b4\uc9c4 \uc6f9\uc0ac\uc774\ud2b8 \uc785\ub2c8\ub2e4!    \ud1a0\ub9c8\ud1a0\uc548\uacbd\uc758 \ube0c\ub79c\ub4dc \uc774\ubbf8\uc9c0\uc640 \ub9de\uac8c \uadc0\uc5ec\uc6b4 \uc77c\ub7ec\uc2a4\ud2b8\ub97c \uc774\uc6a9\ud558\uc5ec \ub9cc\ub4e4\uc5b4\uc84c\ub124\uc694.\ud83d\udc67\ud83d\udc66\uc5ec\uae30\uc11c \ud3ec\uc778\ud2b8\ub294 \ub9c8\uc6b0\uc2a4 \ub530\ub77c \uad74\ub7ec\uac00\ub294 \ub208\ub3d9\uc790\uc640 \uba54\uc778\uc73c\ub85c \uac00\uae30 \ubc84\ud2bc\uc5d0 \ub9c8\uc6b0\uc2a4 \ud638\ubc84\ud588\uc744 \ub54c\uc62c\ub77c\uac00\ub294 \ud83d\ude42\uc785! \ub108\ubb34 \uadc0\uc5ec\uc6b4\uac70 \uac19\uc544\uc694!     \uc5d0\uc2a4\ud50c\ub780\ud2b8 \uce58\uacfc        \uc774\ubc88\uc5d0 \uc18c\uac1c\ub4dc\ub9b4 \uc6f9\uc0ac\uc774\ud2b8\ub294 \uc5d0\uc2a4\ud50c\ub780\ud2b8 \uce58\uacfc\uc0ac\uc774\ud2b8\ub124\uc694!\uce58\uacfc\ubcd1\uc6d0\ub2f5\uac8c 404 \uc5d0\ub7ec \ud398\uc774\uc9c0\uc5d0\uc11c\ub294 \ucda9\uce58\uac00 \uc6c3\uace0\uc788\ub124\uc694&nbsp;\ud83d\ude01(\ud83d\ude4b\u200d\u2642\ufe0f: \ub0b4 \uc5b4\uae08\ub2c8 \ub208\uac10\uc544...)    \uc5f0\uc138\ubb34\ucc99\ub098\uc740\ubcd1\uc6d0        404 \ud398\uc774\uc9c0\uc5d0\uc11c \uc5b8\uae08\uc9c4 \ud558\uc2e0 \ubd84\uc740 \ubc14\ub85c \ubb34\ucc99\ub098\uc740\ubcd1\uc6d0\uc758 \uc81c\uc9c4\ud638 \ubcd1\uc6d0\uc7a5\ub2d8\uc774\uc138\uc694!404\ud398\uc774\uc9c0\uc5d0 \ucd9c\uc5f0\ud558\uc168\uc2b5\ub2c8\ub2e4\uc2e4\uc81c\ub85c\ub294 \uadfc\uc5c4\ud558\uc2dc\uace0 \uba4b\uc788\ub294 \ubaa8\uc2b5\uc744 \ubcf4\ub2e4\uac00 \uc57d\uac04\uc758 \uc704\ud2b8\uc788\ub294 \uc77c\ub7ec\uc2a4\ud2b8\ub85c \ubcf4\ub2c8 \uce5c\uadfc\ud574 \ubcf4\uc774\ub124\uc694! (\uc6d0\uc7a5\ub2d8\ub3c4 \uc544\uc2e4\ub7f0\uc9c0\u2026.\u314e)    D102        \ud83d\udc8d\ub3c5\ucc3d\uc801\uc778 \ub514\uc790\uc778 \uac10\uc131\uc774 \uc5b4\uc6b0\ub7ec\uc9c4 \uc8fc\uc5bc\ub9ac \ube0c\ub79c\ub4dc D102\uc785\ub2c8\ub2e4!\uc8fc\uc5bc\ub9ac \uc0ac\uc774\ud2b8\ub2f5\uac8c \uc81c\ud488 \uc774\ubbf8\uc9c0\uc640 \uae54\ub054\ud55c \ub514\uc790\uc778\uc73c\ub85c \uc815\ubcf4 \uc804\ub2ec\uc774 \uc88b\uac8c \ub514\uc790\uc778 \ub418\uc5b4\uc9c4\uac70 \uac19\uc2b5\ub2c8\ub2e4!     \uc2a4\ud2b8\ub871\uc5d0\uadf8        \"\uc138\uc0c1\uc5d0\uc11c \uac00\uc7a5 \uc544\ub984\ub2e4\uc6b4 \uc591\uacc4\uc7a5 \uc0ac\uc774\ud2b8\ub97c \ub9cc\ub4e4\uc5b4\ubcf4\uc790\ud83d\udc23\"\ub300\ud55c\ubbfc\uad6d 1% \uac74\uac15\ud55c \uacc4\ub780\uc744 \uc54c\ub9ac\uae30 \uc704\ud55c \ube0c\ub79c\ub4dc \uc0ac\uc774\ud2b8 \uc785\ub2c8\ub2e4!\uc591\uacc4\uc7a5\uc758 \uc62c\ub4dc\ud55c \uc774\ubbf8\uc9c0\ub97c \uac1c\uc120\ud558\uace0\uc790 \uc80a\uc740\uce35\uc744 \ud0c0\uae43\uc73c\ub85c \ud55c \uce90\ub9ad\ud130\ub85c \ub514\uc790\uc778 \ub41c \uc0ac\uc774\ud2b8\uc778 \ub9cc\ud07c \uc2a4\ud2b8\ub871\uc5d0\uadf8 404\ud398\uc774\uc9c0\ub3c4 \uce90\ub9ad\ud130\ub97c \ud65c\uc6a9\ud55c \ub514\uc790\uc778\uc774 \ub3cb\ubcf4\uc774\ub124\uc694~!\ud83d\udc23    \ud3ec\ud56d \uc18d\uc2dc\uc6d0 \ub0b4\uacfc        \ud3ec\ud56d \uc18d\uc2dc\uc6d0 \ub0b4\uacfc\uc758 404 \ud398\uc774\uc9c0 \uc785\ub2c8\ub2e4!!\uc18d\uc2dc\uc6d0 \ub0b4\uacfc\uc758 \uc774\ucc3d\ud654 \uc6d0\uc7a5\ub2d8\uc744 \uc77c\ub7ec\uc2a4\ud2b8\ub85c \ud45c\ud604\ud558\uc600\ub124\uc694! \ucea1\uc290\ub0b4\uc2dc\uacbd\uc744 \ud0c0\uace0 \uacc4\uc2dc\ub294 \ubaa8\uc2b5\uc774 \uadc0\uc5fd\uace0 \uc704\ud2b8 \uc788\uac8c \ud45c\ud604\ub41c \uac70 \uac19\uc2b5\ub2c8\ub2e4!    \ud55c\ube5b\uce58\uacfc\ubcd1\uc6d0        \uc774\uac74 \ud55c\ube5b\uce58\uacfc\ubcd1\uc6d0\uc758 404 \ud398\uc774\uc9c0\uc785\ub2c8\ub2e4!\uc2a4\ud29c\ub514\uc624\uc81c\uc774\ud2f0\uc758 \uac1c\uc131\uc774 \ubcf4\uc774\ub294 \uc77c\ub7ec\uc2a4\ud2b8\uc640 \uce58\uc544\uc5d0 \uce58\uba85\uc801\uc778 \ucf5c\ub77c\uc640 \ud568\uaed8 \uadf8\ub824\uc84c\ub124\uc694!(\ud83d\ude4b\u200d\u2642\ufe0f : \uce58\uacfc\ub294 \ud3ec\uae30\ud574\ub3c4 \ud0c4\uc0b0 \ud3ec\uae30\ubabb\ud574..)        \uc774\uc0c1 \uc2a4\ud29c\ub514\uc624\uc81c\uc774\ud2f0 \uc18c\uc2ec\ud558\uace0 \uc138\uc2ec\ud55c \ubc30\ub824 404\ud398\uc774\uc9c0 \uc18c\uac1c \uc600\uc2b5\ub2c8\ub2e4.\uc55e\uc73c\ub85c\ub3c4 \uc0ac\uc6a9\uc790\ub97c \uc704\ud55c &nbsp;\uc81c\uc774\ud2f0\uc758 \ub514\ud14c\uc77c\uc740 &nbsp;\uacc4\uc18d\ub429\ub2c8\ub2e4. \ub2e4\uc74c\uc5d0 \ub610 \ub2e4\uc591\ud558\uace0 \uac1c\uc131 \ub118\uce58\ub294 \ub514\uc790\uc778\uc73c\ub85c \ub3cc\uc544\uc624\uaca0\uc2b5\ub2c8\ub2e4! ( \uc544\ubdd4\ubc31\ud83d\udc4d )","keywords":"","name":"\uc2a4\ud29c\ub514\uc624 \uc81c\uc774\ud2f0 404 \uc5d0\ub7ec \ud398\uc774\uc9c0 \ubaa8\uc74c","datePublished":"2015-10-21T12:01:08+09:00","dateModified":"2023-01-05T23:58:09+09:00","author":{"@type":"Person","name":"\uae40\uc131\uc12d","description":"","url":"https:\/\/studio-jt.co.kr\/author\/kimss\/","sameAs":[],"image":{"@type":"ImageObject","url":"https:\/\/secure.gravatar.com\/avatar\/eaccfecf2189dadbc16ccb9a55107aac?s=96&d=mm&r=g","height":96,"width":96}},"publisher":{"@type":"Organization","name":"\uc2a4\ud29c\ub514\uc624 \uc81c\uc774\ud2f0","url":"https:\/\/studio-jt.co.kr","logo":{"@type":"ImageObject","url":"https:\/\/studio-jt.co.kr\/wp-content\/uploads\/2021\/01\/studio-jt-logo.jpg","width":"380","height":"380"}},"image":[{"@type":"ImageObject","@id":"https:\/\/studio-jt.co.kr\/%ec%8a%a4%ed%8a%9c%eb%94%94%ec%98%a4-%ec%a0%9c%ec%9d%b4%ed%8b%b0-404-%ec%97%90%eb%9f%ac-%ed%8e%98%ec%9d%b4%ec%a7%80-%eb%aa%a8%ec%9d%8c\/#primaryimage","url":"https:\/\/studio-jt.co.kr\/wp-content\/uploads\/2017\/03\/404-1200x1749.jpg","width":"1200","height":"1749"},{"@type":"ImageObject","url":"https:\/\/studio-jt.co.kr\/wp-content\/uploads\/2017\/03\/404-1200x900.jpg","width":"1200","height":"900"},{"@type":"ImageObject","url":"https:\/\/studio-jt.co.kr\/wp-content\/uploads\/2017\/03\/404-1200x675.jpg","width":"1200","height":"675"},{"@type":"ImageObject","url":"https:\/\/studio-jt.co.kr\/wp-content\/uploads\/2022\/09\/404_cotie-1.jpg","width":1200,"height":1938},{"@type":"ImageObject","url":"https:\/\/studio-jt.co.kr\/wp-content\/uploads\/2022\/09\/404_kakao-4.jpg","width":1200,"height":675},{"@type":"ImageObject","url":"https:\/\/studio-jt.co.kr\/wp-content\/uploads\/2022\/09\/404_dsrv-2.jpg","width":1200,"height":675},{"@type":"ImageObject","url":"https:\/\/studio-jt.co.kr\/wp-content\/uploads\/2022\/09\/404_microbiome-1.jpg","width":1200,"height":675},{"@type":"ImageObject","url":"https:\/\/studio-jt.co.kr\/wp-content\/uploads\/2022\/09\/404_ggglog-7.jpg","width":1200,"height":675},{"@type":"ImageObject","url":"https:\/\/studio-jt.co.kr\/wp-content\/uploads\/2022\/09\/404_nasmedia-1.jpg","width":1200,"height":675},{"@type":"ImageObject","url":"https:\/\/studio-jt.co.kr\/wp-content\/uploads\/2022\/09\/404_dongil-1.jpg","width":1200,"height":675},{"@type":"ImageObject","url":"https:\/\/studio-jt.co.kr\/wp-content\/uploads\/2022\/09\/404_beready2-1.jpg","width":1200,"height":675},{"@type":"ImageObject","url":"https:\/\/studio-jt.co.kr\/wp-content\/uploads\/2022\/09\/404_bro-2.jpg","width":1200,"height":675},{"@type":"ImageObject","url":"https:\/\/studio-jt.co.kr\/wp-content\/uploads\/2022\/09\/404_thousand.jpg","width":1200,"height":675},{"@type":"ImageObject","url":"https:\/\/studio-jt.co.kr\/wp-content\/uploads\/2022\/09\/404_youand.jpg","width":1200,"height":675},{"@type":"ImageObject","url":"https:\/\/studio-jt.co.kr\/wp-content\/uploads\/2022\/09\/404_washenjoy-1.jpg","width":1200,"height":675},{"@type":"ImageObject","url":"https:\/\/studio-jt.co.kr\/wp-content\/uploads\/2022\/09\/404_kai-1024x576.jpg","width":1024,"height":576},{"@type":"ImageObject","url":"https:\/\/studio-jt.co.kr\/wp-content\/uploads\/2022\/09\/404_kaa-1024x576.jpg","width":1024,"height":576},{"@type":"ImageObject","url":"https:\/\/studio-jt.co.kr\/wp-content\/uploads\/2022\/09\/404_enf-1024x576.jpg","width":1024,"height":576},{"@type":"ImageObject","url":"https:\/\/studio-jt.co.kr\/wp-content\/uploads\/2022\/09\/404_baraboda-1.jpg","width":1200,"height":675},{"@type":"ImageObject","url":"https:\/\/studio-jt.co.kr\/wp-content\/uploads\/2022\/09\/404_KRST.jpg","width":1200,"height":675},{"@type":"ImageObject","url":"https:\/\/studio-jt.co.kr\/wp-content\/uploads\/2022\/09\/404-tomato-1.jpg","width":1200,"height":675},{"@type":"ImageObject","url":"https:\/\/studio-jt.co.kr\/wp-content\/uploads\/2015\/10\/jt-blog-404-01.jpg","width":1200,"height":800},{"@type":"ImageObject","url":"https:\/\/studio-jt.co.kr\/wp-content\/uploads\/2015\/10\/jtlife-03-img-02.jpg","width":1200,"height":800},{"@type":"ImageObject","url":"https:\/\/studio-jt.co.kr\/wp-content\/uploads\/2015\/10\/jtlife-03-img-03.jpg","width":1200,"height":800},{"@type":"ImageObject","url":"https:\/\/studio-jt.co.kr\/wp-content\/uploads\/2015\/10\/jtlife-03-img-04.jpg","width":1200,"height":800},{"@type":"ImageObject","url":"https:\/\/studio-jt.co.kr\/wp-content\/uploads\/2015\/10\/jtlife-03-img-05.jpg","width":1200,"height":800},{"@type":"ImageObject","url":"https:\/\/studio-jt.co.kr\/wp-content\/uploads\/2015\/10\/jtlife-03-img-06.jpg","width":1200,"height":615}]}]
+</script>
+
+<link rel="amphtml" href="https://studio-jt.co.kr/%ec%8a%a4%ed%8a%9c%eb%94%94%ec%98%a4-%ec%a0%9c%ec%9d%b4%ed%8b%b0-404-%ec%97%90%eb%9f%ac-%ed%8e%98%ec%9d%b4%ec%a7%80-%eb%aa%a8%ec%9d%8c/amp/"></head>
+<body data-rsssl=1 class="post-template-default single single-post postid-5813 single-format-standard  desktop category-6 category-3">
+
+    <div class="global_container">
+        <div id="skip">
+            <a href="#barba-wrapper">메인 콘텐츠 바로가기</a>
+        </div>
+        <header id="header">
+            <div class="header_inner">
+                <div id="logo">
+                    <a href="https://studio-jt.co.kr" title="홈으로 이동">
+                        <span class="logo_primary" data-svg="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/logo-v2.svg">
+                            <img src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/logo-v2.png" alt="스튜디오 제이티"/>
+                        </span>
+                        <span class="logo_secondary" data-svg="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/logo-secondary-v2.svg">
+                             <img src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/logo-secondary-v2.png" alt="스튜디오 제이티"/>
+                        </span>
+                        <span class="logo_sticky" data-svg="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/logo-sticky-v2.svg">
+                             <img src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/logo-sticky-v2.png" alt="스튜디오 제이티"/>
+                        </span>
+                        <span class="logo_blend" data-svg="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/logo-blend-v2.svg">
+                            <img src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/logo-blend-v2.png" alt="스튜디오 제이티"/>
+                        </span>
+						<span class="logo_text">스튜디오 제이티</span>
+                    </a>
+                </div><!-- #logo -->
+
+                <div class="header_typo">
+                    <span>WE</span>
+                    <i class="heart_beat" data-svg="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/icon/icon-blue-heart.svg"><img src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/icon/icon-blue-heart.png" alt="love" /></i>
+                                        <span id="we_love">WORDPRESS</span>
+                </div><!-- .header_typo -->
+
+                <div id="small_menu_overlay"></div>
+                <div id="small_menu_btn_wrap">
+                    <button type="button" class="small_menu_btn" id="small_menu_btn" aria-expanded="false" aria-controls="menu_container">
+                        <span class="sr-only">메뉴 열기</span>
+                        <span class="small_menu_btn_text_wrap">
+                            <span class="small_menu_btn_text small_menu_btn_text_open" aria-hidden="true">MENU</span>
+                            <span class="small_menu_btn_text small_menu_btn_text_close" aria-hidden="true">CLOSE</span>
+                        </span>
+                        <span class="small_menu_btn_line_wrap">
+                            <span class="small_menu_btn_line small_menu_btn_line_01"></span>
+                            <span class="small_menu_btn_line small_menu_btn_line_02"></span>
+                            <span class="small_menu_btn_line small_menu_btn_line_03"></span>
+                        </span>
+                    </button>
+                </div>
+
+                <nav class="menu_container" id="menu_container" role="navigation">
+                    <div class="menu_container_inner">
+                        <ul id="menu" class="menu"><li id="menu-item-687056" class="menu-item menu-item-type-post_type_archive menu-item-object-projects menu-item-687056"><a href="https://studio-jt.co.kr/projects/"><div class="menu-item-arrow" data-svg="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/gnb-active-arrow.svg">
+                                    			 	<img src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/gnb-active-arrow.png" alt="wave icon" />
+                                				 </div>
+												 <span class="menu-item-text">프로젝트<i></i></span></a></li>
+<li id="menu-item-697084" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-697084"><a href="https://studio-jt.co.kr/category/blog/"><div class="menu-item-arrow" data-svg="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/gnb-active-arrow.svg">
+                                    			 	<img src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/gnb-active-arrow.png" alt="wave icon" />
+                                				 </div>
+												 <span class="menu-item-text">제이티 이야기<i></i></span></a></li>
+<li id="menu-item-694823" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-694823"><a href="https://studio-jt.co.kr/%ec%88%98%ec%83%81%eb%82%b4%ec%97%ad/"><div class="menu-item-arrow" data-svg="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/gnb-active-arrow.svg">
+                                    			 	<img src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/gnb-active-arrow.png" alt="wave icon" />
+                                				 </div>
+												 <span class="menu-item-text">수상내역<i></i></span></a></li>
+<li id="menu-item-686951" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-686951"><a href="https://studio-jt.co.kr/%ec%97%b0%eb%9d%bd%ec%b2%98-%eb%b0%8f-%ec%98%a4%ec%8b%9c%eb%8a%94-%ea%b8%b8/"><div class="menu-item-arrow" data-svg="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/gnb-active-arrow.svg">
+                                    			 	<img src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/gnb-active-arrow.png" alt="wave icon" />
+                                				 </div>
+												 <span class="menu-item-text">연락처 및 오시는 길<i></i></span></a></li>
+<li id="menu-item-686954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-686954"><a href="https://studio-jt.co.kr/%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-%ec%9d%98%eb%a2%b0%ed%95%98%ea%b8%b0/"><div class="menu-item-arrow" data-svg="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/gnb-active-arrow.svg">
+                                    			 	<img src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/gnb-active-arrow.png" alt="wave icon" />
+                                				 </div>
+												 <span class="menu-item-text">프로젝트 의뢰하기<i></i></span></a></li>
+<li id="menu-item-688650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-688650"><a href="https://studio-jt.co.kr/%ec%9e%85%ec%82%ac%ec%a7%80%ec%9b%90/"><div class="menu-item-arrow" data-svg="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/gnb-active-arrow.svg">
+                                    			 	<img src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/gnb-active-arrow.png" alt="wave icon" />
+                                				 </div>
+												 <span class="menu-item-text">입사지원<i></i></span></a></li>
+</ul>                        
+                        <ul class="menu_story_list">
+                            <li>
+                                <a href="https://qtandard.com/" target="_blank" rel="noopener noreferrer">
+                                    <span>
+                                        Qtandard
+                                        <svg width="75" height="5" viewBox="0 0 75 5" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M2 2.5C6.10581 2.5 10.0743 1.89551 14.2251 1.89551C21.7875 1.89551 29.4574 2.24858 37 2.5C44.4746 2.74915 51.0197 2.83219 58.5 2.83219C61.3231 2.83219 64.4355 2.5 67.2586 2.5C69.093 2.5 71.2123 2.5 73 2.5" stroke="#222222" stroke-width="2.5" stroke-linecap="round"/>
+                                        </svg>
+                                    </span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://oksuro.com/" target="_blank" rel="noopener noreferrer">
+                                    <span>
+                                        Oksuro
+                                        <svg width="75" height="5" viewBox="0 0 75 5" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M2 2.5C6.10581 2.5 10.0743 1.89551 14.2251 1.89551C21.7875 1.89551 29.4574 2.24858 37 2.5C44.4746 2.74915 51.0197 2.83219 58.5 2.83219C61.3231 2.83219 64.4355 2.5 67.2586 2.5C69.093 2.5 71.2123 2.5 73 2.5" stroke="#222222" stroke-width="2.5" stroke-linecap="round"/>
+                                        </svg>
+                                    </span>
+                                </a>
+                            </li>
+                                                    </ul>
+                    </div><!-- .menu_container_inner -->
+                </nav><!-- .menu_container -->
+            </div><!-- .header_inner -->
+        </header>
+
+        <div id="barba-wrapper">
+          <div class="barba-container">
+                            <main class="main_container" data-jetpack-view="{}" data-jetpack-blog="" data-jetpack-post="">
+
+            <div class="blog_view single_view">
+            <div class="back_to_list">
+                                <a href="https://studio-jt.co.kr/category/blog/?postid=5813&postpage=57">
+                    목록으로<br />돌아가기
+                </a>
+            </div><!-- .back_to_list -->
+
+            <div class="single_content_header single_inner_wrap">
+                <div class="title_wave_line" data-svg="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/icon/icon-wave-long.svg">
+                    <img src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/icon/icon-wave-long.png" alt="wave line"/>
+                </div>
+
+                <h1>스튜디오 제이티 404 에러 페이지 모음</h1>
+
+                <div class="single_content_meta">
+                    <span><span class="sr-only">작성일 </span>2015. 10. 21</span>
+                    <span><span class="sr-only">작성자 </span>By 김성섭</span>
+                    <span><span class="sr-only">카테고리 </span>In 제이티 소식</span>
+                </div><!-- .single_content_meta -->
+
+                <div class="single_excerpt">
+                    <p>404페이지란 사이트의 주소를 잘못 입력하였을시 아니면 해당 포스팅이 삭제되어<br />
+있을때에 나오는 에러 페이지입니다.</p>
+                </div><!-- .single_excerpt -->
+            </div><!-- .single_content_header -->
+
+            <div class="single_content_divder">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+
+            <div class="single_content_view">
+                
+<p>💁‍♀️안녕하세요! 스튜디오제이티 입니다 혹시 404 에러 페이지를 아시나요??💁‍♂️</p>
+
+
+
+<p>사이트의 주소를 잘못 입력 하거나 포스팅이 삭제됐을 때 <del><em>반갑게 </em></del>🙄 맞이해주는 ⛔에러 페이지🚫입니다. 워드프레스로 사이트 개편 시 바뀐 URL체계로 인해 사용자 입장에서 간혹 자주 보게 되는 친구인데요. <span style="color: #999999;"><span style="color:#9c9fa1" class="has-inline-color">(🙋‍♂️: 갑작스럽게 뜨는 에러 페이지로 당황스러운 경험! 겪어보신 적 있으신가요??)</span></span></p>
+
+
+
+<p>스튜디오제이티에서 작업되는 모든 사이트들은 페이지에 잘못 들어갔을 때에도 당황하지 않게 제이티만의 감성으로 메인 페이지로 다시 올 수 있도록 <strong>사용자를 배려</strong>하고 <strong>개성 넘치게</strong> 디자인하여 <strong>꼼꼼하게</strong> 제작한다는 사실!🤘</p>
+
+
+
+<p>그럼 스튜디오제이티에서 그동안 즐겁게 작업했던 404 에러 페이지를 만나러 가볼까요??🏃‍♀️🚶‍♂️🚴‍♂️🏃‍♂️🚶‍♂️🏊‍♀️<br><span style="color: #999999;"><span style="color:#9c9fa1" class="has-inline-color">(디자이너 분들의 돋보이는 센스들을 <strong>이미지를 클릭<strong>👈</strong></strong>해 확인 해보세요!)</span></span><br><br></p>
+
+
+
+<h3>꼬띠샵</h3>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://cotieshop.co.kr/studio-jt" target="_blank" rel="noopener"><img loading="lazy" width="1200" height="1938" src="https://studio-jt.co.kr/wp-content/uploads/2022/09/404_cotie-1.jpg" alt="" class="wp-image-701320" srcset="https://studio-jt.co.kr/wp-content/uploads/2022/09/404_cotie-1.jpg 1200w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_cotie-1-186x300.jpg 186w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_cotie-1-1024x1654.jpg 1024w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_cotie-1-951x1536.jpg 951w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_cotie-1-564x911.jpg 564w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_cotie-1-150x242.jpg 150w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></figure></div>
+
+
+
+<p>🐶꼬띠샵은 반려동물을 위한<strong> 프리미엄 애완용품 브랜드 사이트</strong>입니다.<br>꼬띠샵의 404페이지는 단순한 에러 페이지가 아닙니다!<br><br>잃어버린 반려견과 유기견들이 <strong>하루빨리 그리운 주인 곁으로</strong> 돌아갈 수 있도록 조금의 도움이 되기 위해 동물보호 관리 시스템 api를 연동하여 <strong>의미 있는</strong> 404 페이지를 만들었습니다!😥<br><span style="color:#9c9fa1" class="has-inline-color">(🙋‍♂️ : 얘들아.. 행복해야 한다!)<br></span><br><br></p>
+
+
+
+<h3>카카오엔터프라이즈</h3>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://kakaoenterprise.com/studio-jt" target="_blank" rel="noopener"><img loading="lazy" width="1200" height="675" src="https://studio-jt.co.kr/wp-content/uploads/2022/09/404_kakao-4.jpg" alt="" class="wp-image-701278" srcset="https://studio-jt.co.kr/wp-content/uploads/2022/09/404_kakao-4.jpg 1200w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_kakao-4-300x169.jpg 300w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_kakao-4-1024x576.jpg 1024w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_kakao-4-564x317.jpg 564w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_kakao-4-150x84.jpg 150w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></figure></div>
+
+
+
+<p>다음 소개드릴 페이지는 오랜 시간 동안 축적된 AI 기술력과 서비스 경험을 제공하고,  스마트한 일상을 만드는 <strong>국내 대표 IT 플랫폼 기업 카카오 엔터프라이즈</strong> 입니다!<br><br>카카오의 시그니처 색상을 이용한<strong> 3d 이미지를 활용</strong>하여 <strong>고급스럽고 명확</strong>한 정보 전달로 이루어진 404<br>페이지네요!<br><br><br></p>
+
+
+
+<h3>DSRV</h3>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.dsrvlabs.com/studio-jt" target="_blank" rel="noopener"><img loading="lazy" width="1200" height="675" src="https://studio-jt.co.kr/wp-content/uploads/2022/09/404_dsrv-2.jpg" alt="" class="wp-image-701267" srcset="https://studio-jt.co.kr/wp-content/uploads/2022/09/404_dsrv-2.jpg 1200w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_dsrv-2-300x169.jpg 300w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_dsrv-2-1024x576.jpg 1024w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_dsrv-2-564x317.jpg 564w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_dsrv-2-150x84.jpg 150w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></figure></div>
+
+
+
+<p>'새로운 D, 새로운 고객경험.' 세 번째는 블록체인 업계에서 독보적인 기술력과 <strong>선도적인 퍼포먼스를 가진 DSRV</strong>의 404 에러 페이지 입니다.<br><br> 텍스트의 간결함에&nbsp; DSRV의 특색이 나타나는 🎨<strong>일러스트를 포인트</strong>로 이용하여 표현을 하였습니다! <br><br></p>
+
+
+
+<h3>마이크로바이옴센터</h3>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img loading="lazy" width="1200" height="675" src="https://studio-jt.co.kr/wp-content/uploads/2022/09/404_microbiome-1.jpg" alt="" class="wp-image-701268" srcset="https://studio-jt.co.kr/wp-content/uploads/2022/09/404_microbiome-1.jpg 1200w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_microbiome-1-300x169.jpg 300w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_microbiome-1-1024x576.jpg 1024w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_microbiome-1-564x317.jpg 564w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_microbiome-1-150x84.jpg 150w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure></div>
+
+
+
+<p>마이크로바이옴센터는 홋카이도에 위치하며 LG생활건강의 글로벌<strong> 자연발효 연구</strong>가 이루어지는 공간을 <strong>온라인으로 관람</strong>할 수 있는 사이트입니다!<br><br><br>길을 잃은  당신!🤘 <br>404페이지에서는 마이크로바이옴 센터 안의 모습이 잘 보이지 않네요!🥺 다시 메인으로 돌아가 마이크로바이옴센터의 <s>웅장한</s> 내부를 관람해 보세요!🧏‍♂️🧏‍♀️<br><br></p>
+
+
+
+<h3>공간기록</h3>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://ggglog.com/studio-jt" target="_blank" rel="noopener"><img loading="lazy" width="1200" height="675" src="https://studio-jt.co.kr/wp-content/uploads/2022/09/404_ggglog-7.jpg" alt="" class="wp-image-701304" srcset="https://studio-jt.co.kr/wp-content/uploads/2022/09/404_ggglog-7.jpg 1200w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_ggglog-7-300x169.jpg 300w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_ggglog-7-1024x576.jpg 1024w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_ggglog-7-564x317.jpg 564w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_ggglog-7-150x84.jpg 150w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></figure></div>
+
+
+
+<p>개인 🏠<strong>주거공간을 전문으로 건축하는 회사</strong>🏡 공간기록 에서는 어떤 404 페이지일까요?<br><br>공간기록의 사이트는 로고에 맞춰 라인과 여백을 활용하여 디자인이 되었는데요. 404 에러 페이지도 아이덴티티에 맞게 <strong>라인으로 된 일러스트를</strong> 이용하여 <strong>절제되고 여유로운</strong> 디자인되었네요!<br>(✌가장 어려운 절제..✌)<br><br></p>
+
+
+
+<h3>나스미디어</h3>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.nasmedia.co.kr/studio-jt" target="_blank" rel="noopener"><img loading="lazy" width="1200" height="675" src="https://studio-jt.co.kr/wp-content/uploads/2022/09/404_nasmedia-1.jpg" alt="" class="wp-image-701306" srcset="https://studio-jt.co.kr/wp-content/uploads/2022/09/404_nasmedia-1.jpg 1200w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_nasmedia-1-300x169.jpg 300w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_nasmedia-1-1024x576.jpg 1024w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_nasmedia-1-564x317.jpg 564w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_nasmedia-1-150x84.jpg 150w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></figure></div>
+
+
+
+<p>새롭게 리뉴얼 되었던 국내 최대 미디어 랩 회사 나스미디어 사이트에서는 <strong>아이덴티티 강화를 위한 브랜드 컬러를 활용</strong>하여 제작하였다고 합니다! <br><br>404 페이지에서도 <strong>브랜드 아이덴티티 컬러</strong>를 사용한 <strong>자연스러운 모션 스크립트</strong>를 활용하여 <strong>지루하지 않은</strong> 페이지가 디자인되었네요!<br><span style="color:#9c9fa1" class="has-inline-color">(🙋‍♂️: 공🔴 굴러가유~)</span><br><br></p>
+
+
+
+<h3>동일건축</h3>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://dongil82.co.kr/studio-jt" target="_blank" rel="noopener"><img loading="lazy" width="1200" height="675" src="https://studio-jt.co.kr/wp-content/uploads/2022/09/404_dongil-1.jpg" alt="" class="wp-image-701282" srcset="https://studio-jt.co.kr/wp-content/uploads/2022/09/404_dongil-1.jpg 1200w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_dongil-1-300x169.jpg 300w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_dongil-1-1024x576.jpg 1024w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_dongil-1-564x317.jpg 564w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_dongil-1-150x84.jpg 150w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></figure></div>
+
+
+
+<p>다음은 사람과, 공간을 연계하는 설계, <strong>혁신적인 디자인과 축적된 기술</strong>을 바탕으로 건축과 그 이상의 가치를 만들어내는 <strong>동일건축</strong>입니다!🏦 <br><br>건축회사의 전문성과 크레이티브한 아이덴티티가 보이도록 디자인된 사이트인데요. 전문적이고 신뢰도를 나타내기 위해<strong> 멋들어진 건축 이미지 바탕</strong>에 텍스트로 가독성 높은 페이지입니다!✨<br><br></p>
+
+
+
+<h3>아모레퍼시픽 비레디</h3>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://beready-dev.studio-jt.co.kr/studio-jt" target="_blank" rel="noopener"><img loading="lazy" width="1200" height="675" src="https://studio-jt.co.kr/wp-content/uploads/2022/09/404_beready2-1.jpg" alt="" class="wp-image-701275" srcset="https://studio-jt.co.kr/wp-content/uploads/2022/09/404_beready2-1.jpg 1200w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_beready2-1-300x169.jpg 300w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_beready2-1-1024x576.jpg 1024w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_beready2-1-564x317.jpg 564w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_beready2-1-150x84.jpg 150w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></figure></div>
+
+
+
+<p>아모레퍼시픽의 <strong>최초 남성 메이크업 브랜드 비레디</strong> 웹사이트입니다!!<br><br>브랜드 아이덴티티가 묻어나있는 심벌을 활용하여 통통 튀는 재미요소와 더불어 텍스트 모션을 주었네요. 마우스로 화면을 클릭하면 심벌이 통통 튀며 나온답니다!!😮<br><span style="color:#9c9fa1" class="has-inline-color">(🙋‍♂️: 통통 튀는 심볼 보면 시간가는 줄 몰라요 '사멍'  <s>404 멍 때리기</s>에 좋습니다⏲)</span><br><br></p>
+
+
+
+<h3>FBI WARNING 같은 느낌을 넣어 본 Bro&amp;Tips</h3>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://brontips.com/studio-jt" target="_blank" rel="noopener"><img loading="lazy" width="1200" height="675" src="https://studio-jt.co.kr/wp-content/uploads/2022/09/404_bro-2.jpg" alt="야동 🤭🤭 아님" class="wp-image-701285" srcset="https://studio-jt.co.kr/wp-content/uploads/2022/09/404_bro-2.jpg 1200w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_bro-2-300x169.jpg 300w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_bro-2-1024x576.jpg 1024w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_bro-2-564x317.jpg 564w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_bro-2-150x84.jpg 150w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></figure></div>
+
+
+
+<p>💁‍♂️아모레퍼시픽의 20년 만에 선보인 남성 화장품 브랜드 사이트<strong> 브로앤팁스</strong> 입니다!</p>
+
+
+
+<p>남성들을 대상으로 만든 사이트이다 보니 독특하고 개성 넘치는 문구들이 눈에 띄는데요. 404 페이지에도 <strong>개성 넘치는 문구</strong>와<s> 어디에서 많이 봤을법한?</s> FBI WARNING 패러디 화면으로 <strong>지루하지 않고 재미있게</strong> 표현되었습니다! (형..)🤣<br><br></p>
+
+
+
+<h3>천부교</h3>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.chunbukyo.or.kr/studio-jt" target="_blank" rel="noopener"><img loading="lazy" width="1200" height="675" src="https://studio-jt.co.kr/wp-content/uploads/2022/09/404_thousand.jpg" alt="" class="wp-image-701291" srcset="https://studio-jt.co.kr/wp-content/uploads/2022/09/404_thousand.jpg 1200w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_thousand-300x169.jpg 300w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_thousand-1024x576.jpg 1024w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_thousand-564x317.jpg 564w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_thousand-150x84.jpg 150w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></figure></div>
+
+
+
+<p>전체적으로 무채색과 브라운 컬러로 <strong>고급스럽고 따뜻한 느낌</strong>을 주어 천부교의 교리를 잘 표현 되어진 사이트 입니다.<br><br> 404페이지에서도 <strong>천부교를 상징하는 다양한 요소</strong>를 <strong>🎨한땀한땀 일러스트</strong>로 표현하여 낯선 404 공간에서도 <strong>친근하고 따뜻한 감성</strong>이 느껴지네요!<br><span style="color:#9c9fa1" class="has-inline-color">(🙋‍♂️: 천부교 404에 빠지면 감성과 감상에 젖어 쉽게 못 빠져 나올거 같네요 <s>잘 만든 404가 이렇게 위험합니다. </s>🥺)</span><br><br></p>
+
+
+
+<h3>유앤그린여성한의원</h3>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://you-green.com/studio-jt" target="_blank" rel="noopener"><img loading="lazy" width="1200" height="675" src="https://studio-jt.co.kr/wp-content/uploads/2022/09/404_youand.jpg" alt="" class="wp-image-701292" srcset="https://studio-jt.co.kr/wp-content/uploads/2022/09/404_youand.jpg 1200w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_youand-300x169.jpg 300w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_youand-1024x576.jpg 1024w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_youand-564x317.jpg 564w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_youand-150x84.jpg 150w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></figure></div>
+
+
+
+<p>💁‍♀️다음은 <strong>여성특화 한의 클리닉인 유앤그린여성한의원</strong> 입니다!<br><br>진료에 대해<strong> 조금 더 쉽게 이해할 수 있도록 맞춤형 일러스트</strong>를 활용하여 디자인 되었다고 합니다. 전체적으로 편안하고 밝은 느낌이 드는데 404페이지에서도<strong> 귀여운 일러스트</strong>로 스트레스가 아닌 웃음과 행복함을 주네요!😁<br><br></p>
+
+
+
+<h3>워시엔조이</h3>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://washenjoy.co.kr/studio-jt" target="_blank" rel="noopener"><img loading="lazy" width="1200" height="675" src="https://studio-jt.co.kr/wp-content/uploads/2022/09/404_washenjoy-1.jpg" alt="" class="wp-image-701309" srcset="https://studio-jt.co.kr/wp-content/uploads/2022/09/404_washenjoy-1.jpg 1200w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_washenjoy-1-300x169.jpg 300w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_washenjoy-1-1024x576.jpg 1024w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_washenjoy-1-564x317.jpg 564w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_washenjoy-1-150x84.jpg 150w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></figure></div>
+
+
+
+<p>🧺새롭게 리뉴얼되었던<strong> 셀프 빨래방 워시엔조이</strong> 웹사이트 입니다!<br><br>404 타이포가 물에 잠긴 모션으로 워시엔조이의 <strong>브랜드 이미지에 잘맞고 재치있 게</strong> 표현된거 같네요! <br>(🙋‍♂️: 404 🏊‍♂️⭕)<br><br><br></p>
+
+
+
+<h3>한국알콜산업 KAI / KC&amp;A / ENF</h3>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://www.ka.co.kr/studio-jt" target="_blank" rel="noopener"><img loading="lazy" width="1024" height="576" src="https://studio-jt.co.kr/wp-content/uploads/2022/09/404_kai-1024x576.jpg" alt="" class="wp-image-701359" srcset="https://studio-jt.co.kr/wp-content/uploads/2022/09/404_kai-1024x576.jpg 1024w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_kai-300x169.jpg 300w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_kai-564x317.jpg 564w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_kai-150x84.jpg 150w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_kai.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://kcna.co.kr/studio-jt" target="_blank" rel="noopener"><img loading="lazy" width="1024" height="576" src="https://studio-jt.co.kr/wp-content/uploads/2022/09/404_kaa-1024x576.jpg" alt="" class="wp-image-701360" srcset="https://studio-jt.co.kr/wp-content/uploads/2022/09/404_kaa-1024x576.jpg 1024w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_kaa-300x169.jpg 300w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_kaa-564x317.jpg 564w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_kaa-150x84.jpg 150w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_kaa.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://www.enftech.com/studio-jt" target="_blank" rel="noopener"><img loading="lazy" width="1024" height="576" src="https://studio-jt.co.kr/wp-content/uploads/2022/09/404_enf-1024x576.jpg" alt="" class="wp-image-701361" srcset="https://studio-jt.co.kr/wp-content/uploads/2022/09/404_enf-1024x576.jpg 1024w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_enf-300x169.jpg 300w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_enf-564x317.jpg 564w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_enf-150x84.jpg 150w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_enf.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure></div>
+
+
+
+<p><br><strong>국내 화학 산업을 대표하는 한국알콜산업</strong>과<strong> 관계사(KC&amp;A, ENF)</strong>의 리뉴얼 사이트 입니다! 기업이미지와 새로운 미션 및 비전이 발 반영되고<strong> UI개선 및 디자인을 강화</strong>하는데 목적을 둔 프로젝트 였습니다.<br><br>404 페이지 또한 기업이미지와 맞게 좋은 이미지를 다양한 효과를 주어서 디자인 되었습니다! ✨<br>- <strong>Kai는 마이크로 인터랙션 활용</strong> <span style="color:#9c9fa1" class="has-inline-color">(사용자를 즐겁게 하기 위한 작은 움직임)</span><br>- <strong>KC&amp;A는 시네마그래프 활용</strong> <span style="color:#9c9fa1" class="has-inline-color">(모션과 스틸 사진의 혼합)</span><br>- <strong>ENF는 fake3d</strong> <span style="color:#9c9fa1" class="has-inline-color">(이미지를 활용한 3d 효과)</span><br>각각의 다양한 효과들이 사용 되어졌는데요. 실제로 페이지에서 보면 작은 효과들이 지루함을 줄여주고 감상을 하게 되는거 같습니다!😎<br><br><br><br></p>
+
+
+
+<h3>카페 바라보다</h3>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://baraboda.studio-jt.co.kr/studio-jt" target="_blank" rel="noopener"><img loading="lazy" width="1200" height="675" src="https://studio-jt.co.kr/wp-content/uploads/2022/09/404_baraboda-1.jpg" alt="" class="wp-image-701300" srcset="https://studio-jt.co.kr/wp-content/uploads/2022/09/404_baraboda-1.jpg 1200w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_baraboda-1-300x169.jpg 300w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_baraboda-1-1024x576.jpg 1024w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_baraboda-1-564x317.jpg 564w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_baraboda-1-150x84.jpg 150w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></figure></div>
+
+
+
+<p>☕카페 바라보다를 직접 방문하여 실제 아이템과 <strong>주변환경을 일러스트로 담아</strong> 제작하여 카페로써 <strong>특유의 감수성이 묻어나오는</strong> 사이트 입니다!<br><br> 404에러 페이지에서도 <strong>직접 그린 손그림으로</strong> 바라보다 사이트 만의 감성이 묻어나오는 페이지 입니다. <s>404 페이지 보면서 커피한잔</s><br><br><br><br></p>
+
+
+
+<h3>대한동방 </h3>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://krst.co.kr/studio-jt" target="_blank" rel="noopener"><img loading="lazy" width="1200" height="675" src="https://studio-jt.co.kr/wp-content/uploads/2022/09/404_KRST.jpg" alt="" class="wp-image-701301" srcset="https://studio-jt.co.kr/wp-content/uploads/2022/09/404_KRST.jpg 1200w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_KRST-300x169.jpg 300w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_KRST-1024x576.jpg 1024w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_KRST-564x317.jpg 564w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404_KRST-150x84.jpg 150w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></figure></div>
+
+
+
+<p>다음 소개드릴 페이지는 <strong>특수목적용 기계 제조업체인 대한동방 주식회사</strong>의 리뉴얼 되었던 사이트 입니다! 기업이미지와 새로운 미션 및 비전이 잘 반영되어 디자인 되었는데요<br><br>대한동방을 상징하는 <strong>일러스트를 404 ERROR의 유상성</strong>을 접목시키고 <strong>모션</strong>을 통해 디자인 되어졌습니다! 지루하고 도움이 되지 않는 페이지도  <strong>작은 움직임으로 재미있고 의미있는 페이지</strong>로 만들어 버리는 <strong>STUDIO-JT!🤘👏</strong><br><br><br><br></p>
+
+
+
+<h3>토마토안경 글로벌 쇼핑몰</h3>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full"><a href="https://tomatoglasses.com/studio-jt" target="_blank" rel="noopener"><img loading="lazy" width="1200" height="675" src="https://studio-jt.co.kr/wp-content/uploads/2022/09/404-tomato-1.jpg" alt="" class="wp-image-701335" srcset="https://studio-jt.co.kr/wp-content/uploads/2022/09/404-tomato-1.jpg 1200w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404-tomato-1-300x169.jpg 300w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404-tomato-1-1024x576.jpg 1024w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404-tomato-1-564x317.jpg 564w, https://studio-jt.co.kr/wp-content/uploads/2022/09/404-tomato-1-150x84.jpg 150w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></figure></div>
+
+
+
+<p>🍅<strong>어린이들이 사용하기 편한 토마토안경</strong>의 영문으로 제작되어진 웹사이트 입니다!<br></p>
+
+
+
+<p>토마토안경의 브랜드 이미지와 맞게 귀여운 일러스트를 이용하여 만들어졌네요.👧👦<br>여기서 포인트는 <strong>마우스 따라 굴러가는 눈동자</strong>와 메인으로 가기 버튼에 마우스 호버했을 때<br><strong>올라가는 🙂입!</strong> 너무 귀여운거 같아요! <br><br><br><br></p>
+
+
+
+<h3>에스플란트 치과</h3>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="1200" height="800" src="https://studio-jt.co.kr/wp-content/uploads/2015/10/jt-blog-404-01.jpg" alt="" class="wp-image-687648" srcset="https://studio-jt.co.kr/wp-content/uploads/2015/10/jt-blog-404-01.jpg 1200w, https://studio-jt.co.kr/wp-content/uploads/2015/10/jt-blog-404-01-300x200.jpg 300w, https://studio-jt.co.kr/wp-content/uploads/2015/10/jt-blog-404-01-1024x683.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure></div>
+
+
+
+<p>이번에 소개드릴 웹사이트는 <strong>에스플란트 치과사이트</strong>네요!<br><br>치과병원답게 <strong>404 에러 페이지에서는 충치</strong>가 웃고있네요&nbsp;😁<br>(🙋‍♂️: 내 어금니 눈감아...)</p>
+
+
+
+<h3><br><br><br>연세무척나은병원</h3>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="1200" height="800" src="https://studio-jt.co.kr/wp-content/uploads/2015/10/jtlife-03-img-02.jpg" alt="" class="wp-image-687652" srcset="https://studio-jt.co.kr/wp-content/uploads/2015/10/jtlife-03-img-02.jpg 1200w, https://studio-jt.co.kr/wp-content/uploads/2015/10/jtlife-03-img-02-300x200.jpg 300w, https://studio-jt.co.kr/wp-content/uploads/2015/10/jtlife-03-img-02-1024x683.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure></div>
+
+
+
+<p><br>404 페이지에서<strong> 언금진 하신</strong> 분은 바로 무척나은병원의 제진호 병원장님이세요!<br>404페이지에 출연하셨습니다<br><br>실제로는 근엄하시고 멋있는 모습을 보다가 약간의 <strong>위트있는 일러스트</strong>로 보니 친근해 보이네요! <br>(원장님도 아실런지….ㅎ)</p>
+
+
+
+<h3><br><br><br>D102</h3>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full"><a href="http://d102.co.kr/studio-jt" target="_blank" rel="noopener"><img loading="lazy" width="1200" height="800" src="https://studio-jt.co.kr/wp-content/uploads/2015/10/jtlife-03-img-03.jpg" alt="" class="wp-image-687653" srcset="https://studio-jt.co.kr/wp-content/uploads/2015/10/jtlife-03-img-03.jpg 1200w, https://studio-jt.co.kr/wp-content/uploads/2015/10/jtlife-03-img-03-300x200.jpg 300w, https://studio-jt.co.kr/wp-content/uploads/2015/10/jtlife-03-img-03-1024x683.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></figure></div>
+
+
+
+<p>💍독창적인 디자인 감성이 어우러진 <strong>주얼리 브랜드 D102</strong>입니다!<br>주얼리 사이트답게 <strong>제품 이미지와 깔끔한</strong> 디자인으로 정보 전달이 좋게 디자인 되어진거 같습니다! <br><br><br></p>
+
+
+
+<h3>스트롱에그</h3>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full"><a href="http://strongegg.com/studio-jt" target="_blank" rel="noopener"><img loading="lazy" width="1200" height="800" src="https://studio-jt.co.kr/wp-content/uploads/2015/10/jtlife-03-img-04.jpg" alt="" class="wp-image-687654" srcset="https://studio-jt.co.kr/wp-content/uploads/2015/10/jtlife-03-img-04.jpg 1200w, https://studio-jt.co.kr/wp-content/uploads/2015/10/jtlife-03-img-04-300x200.jpg 300w, https://studio-jt.co.kr/wp-content/uploads/2015/10/jtlife-03-img-04-1024x683.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></figure></div>
+
+
+
+<p>"세상에서 가장 아름다운 양계장 사이트를 만들어보자🐣"<br><strong>대한민국 1% 건강한 계란을 알리기</strong> 위한 브랜드 사이트 입니다!<br><br>양계장의 <strong>올드한 이미지를 개선하고자 젊은층을 타깃</strong>으로 한 캐릭터로 디자인 된 사이트인 만큼 스트롱에그 404페이지도 <strong>캐릭터를 활용한 디자인</strong>이 돋보이네요~!🐣<br><br><br><br></p>
+
+
+
+<h3>포항 속시원 내과</h3>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="1200" height="800" src="https://studio-jt.co.kr/wp-content/uploads/2015/10/jtlife-03-img-05.jpg" alt="" class="wp-image-687655" srcset="https://studio-jt.co.kr/wp-content/uploads/2015/10/jtlife-03-img-05.jpg 1200w, https://studio-jt.co.kr/wp-content/uploads/2015/10/jtlife-03-img-05-300x200.jpg 300w, https://studio-jt.co.kr/wp-content/uploads/2015/10/jtlife-03-img-05-1024x683.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure></div>
+
+
+
+<p>포항 속시원 내과의 404 페이지 입니다!!<br><br><strong>속시원 내과의 이창화 원장님을 일러스트</strong>로 표현하였네요! <br>캡슐내시경을 타고 계시는 모습이 귀엽고 위트 있게 표현된 거 같습니다!<br><br><br><br></p>
+
+
+
+<h3>한빛치과병원</h3>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="1200" height="615" src="https://studio-jt.co.kr/wp-content/uploads/2015/10/jtlife-03-img-06.jpg" alt="" class="wp-image-687656" srcset="https://studio-jt.co.kr/wp-content/uploads/2015/10/jtlife-03-img-06.jpg 1200w, https://studio-jt.co.kr/wp-content/uploads/2015/10/jtlife-03-img-06-300x154.jpg 300w, https://studio-jt.co.kr/wp-content/uploads/2015/10/jtlife-03-img-06-1024x525.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure></div>
+
+
+
+<p>이건 <strong>한빛치과병원의 404 페이지</strong>입니다!<br><br><strong>스튜디오제이티의 개성이 보이는 일러스트</strong>와 치아에 치명적인 콜라와 함께 그려졌네요!<br><span style="color:#9c9fa1" class="has-inline-color">(🙋‍♂️ : <s>치과는 포기해도 탄산 포기못해..</s>)</span></p>
+
+
+
+<p><br><br><br></p>
+
+
+
+<p>이상 스튜디오제이티<strong> 소심하고 세심한 배려 404페이지</strong> 소개 였습니다.<br>앞으로도 사용자를 위한 &nbsp;<strong>제이티의 디테일은 &nbsp;계속</strong>됩니다. <br><br>다음에 또 다양하고 개성 넘치는 디자인으로 돌아오겠습니다! <br>( 아뷔백👍 )</p>
+            </div><!-- .single_content_view -->
+
+            <div class="avatar_info single_inner_wrap">
+                <h2>글쓴사람</h2>
+
+                
+                                    <div class="member_list_wrap">
+                        <ul class="member_list">
+                            <li>
+                                <div class="member_thumb">
+                                    <img src="https://studio-jt.co.kr/wp-content/uploads/2022/06/성섭선임님-150x150.jpg" alt="" />                                    <div class="member_name">
+                                        <div class="member_name_table">
+                                            <div class="member_name_table_cell">
+                                                <p>김성섭</p>
+                                            </div><!-- .member_name_table_cell -->
+                                        </div><!-- .member_name_table -->
+                                    </div><!-- .member_name -->
+                                </div><!-- .member_thumb -->
+                            </li>
+                        </ul><!-- .member_list -->
+                    </div><!-- .member_list_wrap -->
+                            </div><!-- .avatar_info -->
+
+            
+            
+            <div class="single_share_wrap">
+                <button class="single_share_action">
+                    <i class="icon-share"></i>
+                    <span class="single_share_text">공유하기</span>
+                </button>
+                        					<div class="jt_content_share single_inner_wrap">
+	            <a class="share_sns share_facebook" target="_blank" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fstudio-jt.co.kr%2F%3Fp%3D5813">facebook 새창 열기</a>
+	            	            <a class="share_sns share_twitter" target="_blank" href="http://twitter.com/share?url=https%3A%2F%2Fstudio-jt.co.kr%2F%3Fp%3D5813&amp;text=%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%20%EC%A0%9C%EC%9D%B4%ED%8B%B0 - %EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%20%EC%A0%9C%EC%9D%B4%ED%8B%B0%20404%20%EC%97%90%EB%9F%AC%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EB%AA%A8%EC%9D%8C">twitter 새창 열기</a>
+	            <a class="share_sns share_pinterest" target="_blank" href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fstudio-jt.co.kr%2F%25ec%258a%25a4%25ed%258a%259c%25eb%2594%2594%25ec%2598%25a4-%25ec%25a0%259c%25ec%259d%25b4%25ed%258b%25b0-404-%25ec%2597%2590%25eb%259f%25ac-%25ed%258e%2598%25ec%259d%25b4%25ec%25a7%2580-%25eb%25aa%25a8%25ec%259d%258c%2F&media=https://studio-jt.co.kr/wp-content/uploads/2017/03/404.jpg&description=%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4+%EC%A0%9C%EC%9D%B4%ED%8B%B0+404+%EC%97%90%EB%9F%AC+%ED%8E%98%EC%9D%B4%EC%A7%80+%EB%AA%A8%EC%9D%8C">pinterest 새창 열기</a>
+				<a class="share_sns share_kakao"
+					id="kakao-link-btn"
+					href="javascript:;"
+					target="_blank"
+					data-title="스튜디오 제이티 - 스튜디오 제이티 404 에러 페이지 모음"
+					data-description="404페이지란 사이트의 주소를 잘못 입력하였을시 아니면 해당 포스팅이 삭제되어 있을때에 나오는 에러 페이지입니다."
+					data-param="https://studio-jt.co.kr/?p=5813"
+					data-image="https://studio-jt.co.kr/wp-content/uploads/2017/03/404.jpg">kakao 새창 열기</a>
+	        </div><!-- .jt_content_share -->
+			
+        
+            </div>
+
+            
+            <div class="other_story">
+                <div class="wrap">
+                    <div class="single_wave_line" data-svg="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/icon/icon-wave-small-v2.svg">
+                        <img src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/icon/icon-wave-small-v2.png" alt="wave line"/>
+                    </div>
+
+                    <p>또 다른 이야기들</p>
+
+                    <div class="blog_list jt_isotope isotope_col_3">
+                        <div class="isotope_grid_sizer"></div>
+                        <div class="isotope_gutter_sizer"></div>
+
+                                    <div class="blog_item isotope_item">
+                <a href="https://studio-jt.co.kr/%ec%9b%8c%ed%82%b9%ea%b7%b8%eb%a3%b9-jt_a-%ec%95%84%ed%99%89%eb%b2%88%ec%a7%b8/">
+                                                                    <figure>
+                            <img width="1668" height="2388" data-unveil="https://studio-jt.co.kr/wp-content/uploads/2022/07/자화상_이용규.png" src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/blank.gif" alt="" />
+                        </figure>
+                    
+                    <div class="blog_itme_content ">
+                        <h2>워킹그룹 JT_A : 아홉번째</h2>
+                        <span aria-hidden="true">view more</span>
+                    </div><!-- .blog_itme_content -->
+                </a>
+            </div><!-- .blog_item -->
+                        <div class="blog_item isotope_item">
+                <a href="https://studio-jt.co.kr/%ec%9b%8c%ed%82%b9%ea%b7%b8%eb%a3%b9-jt_a-%ed%8a%b9%ec%88%98%ec%9e%84%eb%ac%b4/">
+                                                                    <figure>
+                            <img width="400" height="480" data-unveil="https://studio-jt.co.kr/wp-content/uploads/2021/12/KakaoTalk_20211220_182345618_05-1.jpg" src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/blank.gif" alt="" />
+                        </figure>
+                    
+                    <div class="blog_itme_content ">
+                        <h2>워킹그룹 JT_A : Merry Christmas</h2>
+                        <span aria-hidden="true">view more</span>
+                    </div><!-- .blog_itme_content -->
+                </a>
+            </div><!-- .blog_item -->
+                        <div class="blog_item isotope_item">
+                <a href="https://studio-jt.co.kr/%ec%9b%8c%ed%82%b9%ea%b7%b8%eb%a3%b9-jt_a-%ec%9d%bc%ea%b3%b1%eb%b2%88%ec%a7%b8-%eb%83%84%ec%83%88/">
+                                                                    <figure>
+                            <img width="640" height="767" data-unveil="https://studio-jt.co.kr/wp-content/uploads/2021/10/특성이미지-1.jpg" src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/blank.gif" alt="" />
+                        </figure>
+                    
+                    <div class="blog_itme_content ">
+                        <h2>워킹그룹 JT_A : 일곱번째</h2>
+                        <span aria-hidden="true">view more</span>
+                    </div><!-- .blog_itme_content -->
+                </a>
+            </div><!-- .blog_item -->
+                                </div><!-- .blog_list -->
+                                    </div><!-- .wrap -->
+            </div><!-- .other_story -->
+        </div><!-- .blog_view -->
+    
+				</main><!-- .main_container -->
+            </div> <!-- #barba-container -->
+        </div><!-- #barba-wrapper -->
+
+        <footer id="footer">
+			
+			<div class="footer_inner wrap">
+				<div class="footer_info">
+					<ul class="footer_link">
+						<li class="link_as"><a href="https://oksuro.com/" target="_blank">AI 이미지</a></li>
+						<li class="link_contact"><a class="no-barba" id="anchor_request_footer" href="https://studio-jt.co.kr/%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-%ec%9d%98%eb%a2%b0%ed%95%98%ea%b8%b0/">프로젝트 의뢰하기</a></li>
+					</ul><!-- .footer_link -->
+
+					<ul class="footer_addr">
+						<li class="addr_busan">
+							<strong>BUSAN OFFICE</strong>
+							<p>
+								부산시 해운대구 APEC로 17 <br />센텀리더스마크 1101호 <br class="footer_addr_small_show" />
+								                                <a href="tel:070-7566-1981">070-7566-1981</a> <br class="footer_addr_small_show" />
+								<a href="mailto:co&#110;tact&#64;stu&#100;&#105;&#111;&#45;&#106;t.c&#111;.&#107;r">c&#111;nt&#97;&#99;t&#64;&#115;&#116;&#117;&#100;i&#111;-j&#116;.co.&#107;r</a>
+							</p>
+							<a class="map_view" target="_blank" href="https://maps.app.goo.gl/3kwcZ3WbBN1oZYpE7">구글 지도 새창 열기</a>
+						</li>
+											</ul><!-- .footer_addr -->
+				</div><!-- .footer_info -->
+
+				<div class="footer_social">
+					<ul class="footer_social_list"  >
+						<li class="footer_social_listitem footer_instagram">
+							<a itemprop="sameAs" class="footer_social_listitem_anchor footer_social_listitem_anchor_instagram" target="_blank" href="https://www.instagram.com/studio_jt/">
+								<span class="share_instagram" data-svg="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/share-instagram.svg">
+									 <img src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/share-instagram.png" alt="스튜디오 제이티"/>
+								</span>
+								<span class="sr-only">새창 열기</span>
+							</a>
+						</li>
+						<li class="footer_social_listitem footer_facebook">
+							<a itemprop="sameAs" class="footer_social_listitem_anchor footer_social_listitem_anchor_facebook" target="_blank" href="https://www.facebook.com/StudioJtPage">
+								<span class="share_facebook" data-svg="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/share-facebook.svg">
+									 <img src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/share-facebook.png" alt="스튜디오 제이티"/>
+								</span>
+								<span class="sr-only">새창 열기</span>
+							</a>
+						</li>
+						<li class="footer_social_listitem footer_pinterest">
+							<a itemprop="sameAs" class="footer_social_listitem_anchor footer_social_listitem_anchor_pinterest" target="_blank" href="https://www.pinterest.com/padakjt/studio-jt/">
+								<span class="share_pinterest" data-svg="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/share-pinterest.svg">
+									 <img src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/share-pinterest.png" alt="스튜디오 제이티"/>
+								</span>
+								<span class="sr-only">새창 열기</span>
+							</a>
+						</li>
+                        <li class="footer_social_listitem footer_youtube">
+							<a itemprop="sameAs" class="footer_social_listitem_anchor footer_social_listitem_anchor_youtube" target="_blank" href="https://www.youtube.com/channel/UCkmC-DecJ5-gMhmJdyYF93g">
+								<span class="share_youtube" data-svg="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/share-youtube.svg">
+									 <img src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/share-youtube.png" alt="스튜디오 제이티"/>
+								</span>
+								<span class="sr-only">새창 열기</span>
+							</a>
+						</li>
+					</ul>
+
+					<div class="footer_facebook_frame">
+						<div class="footer_fb_icon">
+							<img src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/fb-like.svg" alt="">
+							<div class="footer_fb_icon_heart"></div>
+						</div><!-- .footer_fb_icon -->
+
+						<iframe class="footer_fb_like"
+							title="스튜디오 제이티 페이스북"
+							src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FStudioJtPage&width=131&layout=button_count&action=like&size=large&share=false&height=21&appId"
+							width="131"
+							height="28"
+							style="border:none;overflow:hidden"
+							scrolling="no"
+							frameborder="0"
+							allowTransparency="true"
+							allow="encrypted-media"></iframe>
+					</div><!-- .footer_facebook_frame -->
+				</div><!-- .footer_social-->
+
+				<p class="footer_copy"><span>COPYRIGHT 2012-2025 STUDIO-JT.</span> <span>ALL RIGHTS RESERVED.</span></p>
+			</div><!-- .footer_inner -->
+		</footer>
+
+	</div><!-- .global_container -->
+
+    <div id="mask_01" class="mask_outer">
+		<div class="mask_inner">
+			<img class="mask_wave" src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/screen-wave-primary.png" alt="primary mask" />
+			<div class="mask_box"></div>
+		</div>
+	</div>
+
+	<div id="mask_02" class="mask_outer">
+		<div class="mask_inner">
+			<img class="mask_wave" src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/screen-wave-secondary-white.png" alt="secondary mask" />
+			<div class="mask_box"></div>
+		</div>
+	</div>
+
+	<div id="loading_people">
+		<div class="loading_people_01">
+			<img class="loading_people_text" src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/superman-loading.png" alt="Loading" />
+			<img class="loading_people_primary" src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/loading-01-primary.png" alt="패러글라이딩 로딩중" />
+			<img class="loading_people_secondary" src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/loading-01-secondary.png" alt="패러글라이딩 로딩완료" />
+		</div><!-- .loading_people_01 -->
+
+		<div class="loading_people_02">
+			<img class="loading_people_text" src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/superman-loading.png" alt="Loading" />
+			<img class="loading_people_primary" src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/loading-02-primary.png" alt="발레 로딩중" />
+			<img class="loading_people_secondary" src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/loading-02-secondary.png" alt="발레 로딩완료" />
+		</div><!-- .loading_people_02 -->
+
+		<div class="loading_people_03">
+			<img class="loading_people_text" src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/superman-loading.png" alt="Loading" />
+			<img class="loading_people_primary" src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/superman-01.png" alt="슈퍼맨 로딩중" />
+			<img class="loading_people_secondary" src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/superman-02.png" alt="슈퍼맨 로딩완료" />
+		</div><!-- .loading_people_03 -->
+
+		<div class="loading_people_04">
+			<img class="loading_people_text" src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/superman-loading.png" alt="Loading" />
+			<img class="loading_people_primary" src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/cannonman-01.png" alt="캐논맨 로딩중" />
+			<img class="loading_people_secondary" src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/cannonman-03.png" alt="맨 로딩완료" />
+			<img class="loading_people_third" src="https://studio-jt.co.kr/wp-content/themes/studio_jt/images/layout/cannonman-02.png" alt="캐논 로딩완료" />
+		</div><!-- .loading_people_04 -->
+    </div><!-- #loading_people -->
+
+    <script type='text/javascript' id='fvm-footer-0-js-extra'>
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"\uacb0\uacfc\uac00 \uc5c6\uc2b5\ub2c8\ub2e4.","oneResult":"1\uac1c\uc758 \uacb0\uacfc\ub97c \ubc1c\uacac\ud588\uc2b5\ub2c8\ub2e4. \uc704\uc640 \uc544\ub798\ucabd \ud654\uc0b4\ub97c \uc774\uc6a9\ud574 \ud0d0\uc0c9\ud558\uc138\uc694.","manyResults":"%d\uac1c\uc758 \uacb0\uacfc\ub97c \ucc3e\uc558\uc2b5\ub2c8\ub2e4. \uc704\uc640 \uc544\ub798 \ud654\uc0b4\ud0a4\ub97c \uc774\uc6a9\ud574 \ud0d0\uc0c9\ud558\uc138\uc694.","itemSelected":"\ud56d\ubaa9\uc744 \uc120\ud0dd\ud588\uc2b5\ub2c8\ub2e4."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://studio-jt.co.kr/wp-content/uploads/cache/fvm/1752538791/out/footer-1bdf4426b2c8408438ea867afb1fd4a39f74f7fb.min.js' id='fvm-footer-0-js'></script><script type='text/javascript' src='//developers.kakao.com/sdk/js/kakao.min.js' id='kakao-js'></script><script type='text/javascript' src='https://studio-jt.co.kr/wp-content/uploads/cache/fvm/1752538791/out/footer-a027d449774b46e05b08f7e612f6d51ed78d9559.min.js' id='fvm-footer-2-js'></script>
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-64116830-7', 'auto');
+	  ga('send', 'pageview');
+	</script>
+
+    <script type="text/javascript" src="//wcs.naver.net/wcslog.js"></script>
+    <script type="text/javascript">
+    if(!wcs_add) var wcs_add = {};
+    wcs_add["wa"] = "524a210677805";
+    if(window.wcs) {
+      wcs_do();
+    }
+    </script>
+
+</body>
+</html>
